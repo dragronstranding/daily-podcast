@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>每日深度 | Daily Deep Dive</title>
+    <link>https://dragronstranding.github.io/daily-podcast/</link>
+    <atom:link href="https://dragronstranding.github.io/daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>每日从可靠信源采集科技、经济、政治方向的资讯，深度分析当日热点事件。AI主播为你解读新闻背后的逻辑与影响。</description>
+    <language>zh-CN</language>
+    <copyright>2026 每日深度</copyright>
+    <itunes:author>每日深度 AI Podcast</itunes:author>
+    <itunes:summary>每日从可靠信源采集科技、经济、政治方向的资讯，深度分析当日热点事件。AI主播为你解读新闻背后的逻辑与影响。</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="News">
+      <itunes:category text="Technology"/>
+    </itunes:category>
+    <itunes:category text="Business"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://dragronstranding.github.io/daily-podcast/cover.jpg"/>
+    <image>
+      <url>https://dragronstranding.github.io/daily-podcast/cover.jpg</url>
+      <title>每日深度 | Daily Deep Dive</title>
+      <link>https://dragronstranding.github.io/daily-podcast/</link>
+    </image>
+
+    <item>
+      <title>每日深度 | 2026-05-06：AMD财报暴涨38%，美欧贸易摩擦升级，伊朗外长访华</title>
+      <description>今日焦点：AMD发布亮眼财报，AI芯片格局生变；美国对欧盟汽车加征25%关税，贸易摩擦升级；伊朗外长访华聚焦中东和平与能源合作；中国对非洲全面零关税政策落地。深度剖析这些事件背后的逻辑与影响。</description>
+      <link>https://dragronstranding.github.io/daily-podcast/2026-05-06/blog.html</link>
+      <guid isPermaLink="true">https://dragronstranding.github.io/daily-podcast/2026-05-06/</guid>
+      <pubDate>Tue, 06 May 2026 00:30:00 +0000</pubDate>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-05-06/episode.mp3" type="audio/mpeg" length="3117158"/>
+      <itunes:duration>00:08:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:title>AMD财报暴涨38%，美欧贸易摩擦升级，伊朗外长访华</itunes:title>
+      <itunes:summary>今日焦点：AMD发布亮眼财报，AI芯片格局生变；美国对欧盟汽车加征25%关税，贸易摩擦升级；伊朗外长访华聚焦中东和平与能源合作；中国对非洲全面零关税政策落地。深度剖析这些事件背后的逻辑与影响。</itunes:summary>
+    </item>
+  </channel>
+</rss>
