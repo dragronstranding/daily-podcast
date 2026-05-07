@@ -15,6 +15,10 @@
     </itunes:category>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>每日深度 AI Podcast</itunes:name>
+      <itunes:email>qianwei146@gmail.com</itunes:email>
+    </itunes:owner>
     <itunes:image href="https://dragronstranding.github.io/daily-podcast/cover.jpg"/>
     <image>
       <url>https://dragronstranding.github.io/daily-podcast/cover.jpg</url>
@@ -22,6 +26,20 @@
       <link>https://dragronstranding.github.io/daily-podcast/</link>
     </image>
 
+    <item>
+      <title>每日深度 | 2026-05-07：OpenAI发布GPT-5.5并豪掷500亿美元，美股道指暴涨600点创新高，美伊关系现突破信号</title>
+      <description>今日焦点：OpenAI正式发布GPT-5.5 Instant并宣布500亿美元算力投资计划，首款AI手机量产提前至2027年；国产AI芯片集体爆发，寒武纪营收暴涨159%；美股道指涨逾600点再创历史新高，A股科技板块共振走强；美伊关系出现突破性信号，特朗普称有望达成协议；美国目标7月4日通过加密货币《清晰法案》。深度剖析这些事件背后的逻辑与影响。</description>
+      <link>https://dragronstranding.github.io/daily-podcast/2026-05-07/blog.html</link>
+      <guid isPermaLink="true">https://dragronstranding.github.io/daily-podcast/2026-05-07/</guid>
+      <pubDate>Thu, 07 May 2026 00:30:00 +0000</pubDate>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-05-07/episode.mp3" type="audio/mpeg" length="3100701"/>
+      <itunes:duration>00:08:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:title>OpenAI发布GPT-5.5并豪掷500亿美元，美股道指暴涨600点创新高，美伊关系现突破信号</itunes:title>
+      <itunes:summary>今日焦点：OpenAI正式发布GPT-5.5 Instant并宣布500亿美元算力投资计划，首款AI手机量产提前至2027年；国产AI芯片集体爆发，寒武纪营收暴涨159%；美股道指涨逾600点再创历史新高，A股科技板块共振走强；美伊关系出现突破性信号，特朗普称有望达成协议；美国目标7月4日通过加密货币《清晰法案》。深度剖析这些事件背后的逻辑与影响。</itunes:summary>
+    </item>
     <item>
       <title>每日深度 | 2026-05-06：AMD财报暴涨38%，美欧贸易摩擦升级，伊朗外长访华</title>
       <description>今日焦点：AMD发布亮眼财报，AI芯片格局生变；美国对欧盟汽车加征25%关税，贸易摩擦升级；伊朗外长访华聚焦中东和平与能源合作；中国对非洲全面零关税政策落地。深度剖析这些事件背后的逻辑与影响。</description>
