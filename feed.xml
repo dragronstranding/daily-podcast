@@ -1,72 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>每日深度 | Daily Deep Dive</title>
+    <title>每日深度</title>
     <link>https://dragronstranding.github.io/daily-podcast/</link>
-    <atom:link href="https://dragronstranding.github.io/daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <description>每日从可靠信源采集科技、经济、政治方向的资讯，深度分析当日热点事件。AI主播为你解读新闻背后的逻辑与影响。</description>
     <language>zh-CN</language>
-    <copyright>2026 每日深度</copyright>
-    <itunes:author>每日深度 AI Podcast</itunes:author>
-    <itunes:summary>每日从可靠信源采集科技、经济、政治方向的资讯，深度分析当日热点事件。AI主播为你解读新闻背后的逻辑与影响。</itunes:summary>
-    <itunes:type>episodic</itunes:type>
-    <itunes:category text="News">
-      <itunes:category text="Technology"/>
-    </itunes:category>
-    <itunes:category text="Business"/>
-    <itunes:explicit>false</itunes:explicit>
+    <copyright>© 2026 每日深度</copyright>
+    <itunes:author>每日深度</itunes:author>
+    <itunes:summary>每日从可靠信源采集科技、经济、政治方向的资讯，生成深度分析风格的播客节目。</itunes:summary>
+    <description>每日从可靠信源采集科技、经济、政治方向的资讯，生成深度分析风格的播客节目。</description>
     <itunes:owner>
-      <itunes:name>每日深度 AI Podcast</itunes:name>
-      <itunes:email>qianwei146@gmail.com</itunes:email>
+      <itunes:name>每日深度</itunes:name>
+      <itunes:email>podcast@example.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://dragronstranding.github.io/daily-podcast/cover.jpg"/>
-    <image>
-      <url>https://dragronstranding.github.io/daily-podcast/cover.jpg</url>
-      <title>每日深度 | Daily Deep Dive</title>
-      <link>https://dragronstranding.github.io/daily-podcast/</link>
-    </image>
+    <itunes:category text="News"/>
+    <itunes:category text="Technology"/>
+    <itunes:category text="Business"/>
+    <atom:link href="https://dragronstranding.github.io/daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>每日深度 | 2026-05-09</title>
+      <itunes:author>每日深度</itunes:author>
+      <itunes:subtitle>AI接入美军决策系统、美国全球关税被判无效、俄乌胜利日临时停火</itunes:subtitle>
+      <itunes:summary><![CDATA[本期节目深入解读2026年5月9日最重要的科技、经济和政治新闻：
 
-    <item>
-      <title>每日深度 | 2026-05-08：AI军备竞赛白热化，黄金突破4700美元，美伊谈判进入关键博弈期</title>
-      <description>今日焦点：伯克希尔股东大会聚焦AI安全，巴菲特深度伪造视频敲响警钟；GPT-5.5效率暴涨35倍，月之暗面估值四个月翻四倍；黄金突破4700美元大关，霍尔木兹海峡成全球能源咽喉；美伊停火博弈进入关键期，以色列独立议程成变数；特朗普关税政策遭法院裁定违规。深度剖析这些事件背后的逻辑与影响。</description>
-      <link>https://dragronstranding.github.io/daily-podcast/2026-05-08/blog.html</link>
-      <guid isPermaLink="true">https://dragronstranding.github.io/daily-podcast/2026-05-08/</guid>
-      <pubDate>Fri, 08 May 2026 00:30:00 +0000</pubDate>
-      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-05-08/episode.mp3" type="audio/mpeg" length="1541952"/>
-      <itunes:duration>00:04:16</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episode>3</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:title>AI军备竞赛白热化，黄金突破4700美元，美伊谈判进入关键博弈期</itunes:title>
-      <itunes:summary>今日焦点：伯克希尔股东大会聚焦AI安全，巴菲特深度伪造视频敲响警钟；GPT-5.5效率暴涨35倍，月之暗面估值四个月翻四倍；黄金突破4700美元大关，霍尔木兹海峡成全球能源咽喉；美伊停火博弈进入关键期，以色列独立议程成变数；特朗普关税政策遭法院裁定违规。深度剖析这些事件背后的逻辑与影响。</itunes:summary>
+【科技板块】
+- 美五角大楼与七家科技巨头签署540亿美元AI军事合同，AI正式接入作战决策
+- OpenAI联手高通研发端侧AI芯片，苹果市值单日蒸发500亿美元
+- 中欧同步收紧AI监管，全球AI进入强合规时代
+
+【经济板块】
+- 美国国际贸易法院裁定特朗普10%全球关税无效
+- 美股三大指数齐创新高，半导体超级周期全面兑现
+- 原油市场"恐慌-修复"循环加速，布伦特原油单日振幅超13%
+
+【政治板块】
+- 俄乌胜利日临时停火，姿态性缓和背后战略僵局未解
+- 美伊核谈判重启，伊朗十项条件关闭快速谈判大门
+- 特朗普对欧盟发出7月4日最后通牒，跨大西洋贸易裂痕加深]]></itunes:summary>
+      <description><![CDATA[本期节目深入解读2026年5月9日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- 美五角大楼与七家科技巨头签署540亿美元AI军事合同，AI正式接入作战决策
+- OpenAI联手高通研发端侧AI芯片，苹果市值单日蒸发500亿美元
+- 中欧同步收紧AI监管，全球AI进入强合规时代
+
+【经济板块】
+- 美国国际贸易法院裁定特朗普10%全球关税无效
+- 美股三大指数齐创新高，半导体超级周期全面兑现
+- 原油市场"恐慌-修复"循环加速，布伦特原油单日振幅超13%
+
+【政治板块】
+- 俄乌胜利日临时停火，姿态性缓和背后战略僵局未解
+- 美伊核谈判重启，伊朗十项条件关闭快速谈判大门
+- 特朗普对欧盟发出7月4日最后通牒，跨大西洋贸易裂痕加深]]></description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-05-09/episode.mp3" length="3812925" type="audio/mpeg"/>
+      <guid>https://dragronstranding.github.io/daily-podcast/2026-05-09/episode.mp3</guid>
+      <pubDate>Fri, 09 May 2026 06:00:00 GMT</pubDate>
+      <itunes:duration>10:30</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://dragronstranding.github.io/daily-podcast/2026-05-09/</link>
     </item>
     <item>
-      <title>每日深度 | 2026-05-07：OpenAI发布GPT-5.5并豪掷500亿美元，美股道指暴涨600点创新高，美伊关系现突破信号</title>
-      <description>今日焦点：OpenAI正式发布GPT-5.5 Instant并宣布500亿美元算力投资计划，首款AI手机量产提前至2027年；国产AI芯片集体爆发，寒武纪营收暴涨159%；美股道指涨逾600点再创历史新高，A股科技板块共振走强；美伊关系出现突破性信号，特朗普称有望达成协议；美国目标7月4日通过加密货币《清晰法案》。深度剖析这些事件背后的逻辑与影响。</description>
-      <link>https://dragronstranding.github.io/daily-podcast/2026-05-07/blog.html</link>
-      <guid isPermaLink="true">https://dragronstranding.github.io/daily-podcast/2026-05-07/</guid>
-      <pubDate>Thu, 07 May 2026 00:30:00 +0000</pubDate>
-      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-05-07/episode.mp3" type="audio/mpeg" length="3100701"/>
-      <itunes:duration>00:08:37</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episode>2</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:title>OpenAI发布GPT-5.5并豪掷500亿美元，美股道指暴涨600点创新高，美伊关系现突破信号</itunes:title>
-      <itunes:summary>今日焦点：OpenAI正式发布GPT-5.5 Instant并宣布500亿美元算力投资计划，首款AI手机量产提前至2027年；国产AI芯片集体爆发，寒武纪营收暴涨159%；美股道指涨逾600点再创历史新高，A股科技板块共振走强；美伊关系出现突破性信号，特朗普称有望达成协议；美国目标7月4日通过加密货币《清晰法案》。深度剖析这些事件背后的逻辑与影响。</itunes:summary>
-    </item>
-    <item>
-      <title>每日深度 | 2026-05-06：AMD财报暴涨38%，美欧贸易摩擦升级，伊朗外长访华</title>
-      <description>今日焦点：AMD发布亮眼财报，AI芯片格局生变；美国对欧盟汽车加征25%关税，贸易摩擦升级；伊朗外长访华聚焦中东和平与能源合作；中国对非洲全面零关税政策落地。深度剖析这些事件背后的逻辑与影响。</description>
-      <link>https://dragronstranding.github.io/daily-podcast/2026-05-06/blog.html</link>
-      <guid isPermaLink="true">https://dragronstranding.github.io/daily-podcast/2026-05-06/</guid>
-      <pubDate>Tue, 06 May 2026 00:30:00 +0000</pubDate>
-      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-05-06/episode.mp3" type="audio/mpeg" length="3117158"/>
-      <itunes:duration>00:08:39</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episode>1</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:title>AMD财报暴涨38%，美欧贸易摩擦升级，伊朗外长访华</itunes:title>
-      <itunes:summary>今日焦点：AMD发布亮眼财报，AI芯片格局生变；美国对欧盟汽车加征25%关税，贸易摩擦升级；伊朗外长访华聚焦中东和平与能源合作；中国对非洲全面零关税政策落地。深度剖析这些事件背后的逻辑与影响。</itunes:summary>
+      <title>每日深度 | 2026-05-08</title>
+      <itunes:author>每日深度</itunes:author>
+      <itunes:subtitle>DeepSeek获450亿美元估值、美伊霍尔木兹海峡冲突、黄金价格突破4700美元</itunes:subtitle>
+      <itunes:summary><![CDATA[本期节目深入解读2026年5月8日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- DeepSeek获国家队450亿美元估值，中国AI产业进入国家战略层面
+- Meta宣布350亿美元AI资本支出，科技巨头军备竞赛升级
+- 中国建成全球首个测控装备智能化测评体系
+
+【经济板块】
+- 美国法院裁定特朗普关税政策无效，全球贸易格局重构
+- 黄金价格突破4700美元创历史新高
+- 中国对53个非洲国家实施零关税
+
+【政治板块】
+- 美伊在霍尔木兹海峡爆发激烈军事冲突
+- 俄乌战场胜利日停火但战事未止
+- 中美元首会晤在即，台湾问题成核心关切]]></itunes:summary>
+      <description><![CDATA[本期节目深入解读2026年5月8日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- DeepSeek获国家队450亿美元估值，中国AI产业进入国家战略层面
+- Meta宣布350亿美元AI资本支出，科技巨头军备竞赛升级
+- 中国建成全球首个测控装备智能化测评体系
+
+【经济板块】
+- 美国法院裁定特朗普关税政策无效，全球贸易格局重构
+- 黄金价格突破4700美元创历史新高
+- 中国对53个非洲国家实施零关税
+
+【政治板块】
+- 美伊在霍尔木兹海峡爆发激烈军事冲突
+- 俄乌战场胜利日停火但战事未止
+- 中美元首会晤在即，台湾问题成核心关切]]></description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-05-08/episode.mp3" length="16896000" type="audio/mpeg"/>
+      <guid>https://dragronstranding.github.io/daily-podcast/2026-05-08/episode.mp3</guid>
+      <pubDate>Thu, 08 May 2026 06:00:00 GMT</pubDate>
+      <itunes:duration>14:03</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://dragronstranding.github.io/daily-podcast/2026-05-08/</link>
     </item>
   </channel>
 </rss>
