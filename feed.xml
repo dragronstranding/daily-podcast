@@ -54,5 +54,20 @@
       <itunes:title>AMD财报暴涨38%，美欧贸易摩擦升级，伊朗外长访华</itunes:title>
       <itunes:summary>今日焦点：AMD发布亮眼财报，AI芯片格局生变；美国对欧盟汽车加征25%关税，贸易摩擦升级；伊朗外长访华聚焦中东和平与能源合作；中国对非洲全面零关税政策落地。深度剖析这些事件背后的逻辑与影响。</itunes:summary>
     </item>
+  
+    <item>
+      <title>每日深度 | 2026-05-08：DeepSeek获国家队入股，美关税被裁定无效，美伊海峡交火</title>
+      <description>今日焦点：DeepSeek获国家队战略入股估值450亿美元；半导体板块集体回调；美国贸易法院裁定特朗普10%全球关税无效；美伊在霍尔木兹海峡直接交火，中东局势急剧升级。</description>
+      <link>https://dragronstranding.github.io/daily-podcast/2026-05-08/blog.html</link>
+      <guid isPermaLink="true">https://dragronstranding.github.io/daily-podcast/2026-05-08/</guid>
+      <pubDate>Thu, 08 May 2026 00:30:00 +0000</pubDate>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-05-08/episode.mp3" type="audio/mpeg" length="525"/>
+      <itunes:duration>00:04:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:title>DeepSeek获国家队入股，美关税被裁定无效，美伊海峡交火</itunes:title>
+      <itunes:summary>今日焦点：DeepSeek获国家队战略入股估值450亿美元；半导体板块集体回调；美国贸易法院裁定特朗普10%全球关税无效；美伊在霍尔木兹海峡直接交火，中东局势急剧升级。</itunes:summary>
+    </item>
   </channel>
 </rss>
