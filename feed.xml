@@ -19,6 +19,49 @@
     <atom:link href="https://dragronstranding.github.io/daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
+      <title>每日深度 | 2026-05-10</title>
+      <itunes:author>每日深度</itunes:author>
+      <itunes:subtitle>英特尔苹果世纪合作、华为昇腾登顶国内AI芯片、俄乌临时停火、霍尔木兹海峡对峙升级</itunes:subtitle>
+      <itunes:summary><![CDATA[本期节目深入解读2026年5月10日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- 英特尔与苹果达成芯片代工协议，股价双双创历史新高
+- 华为昇腾系列AI芯片有望拿下国内市场最大份额，昆仑芯启动科创板上市
+- 中科院"太极计划"皮米级引力波干涉仪地面测试通过
+
+【经济板块】
+- 美股标普500和纳指连续六周上涨，AI芯片与存储为核心主线
+- 中国前4月外贸进出口总值16.23万亿元，同比增长14.9%
+- 高盛维持A股超配评级，沪深300目标上调至5300点
+
+【政治板块】
+- 俄乌实行三天临时停火并交换1000名战俘
+- 中美在日内瓦举行经贸会谈，聚焦务实合作与分歧管控
+- 美伊霍尔木兹海峡对峙升级，全球石油贸易面临严重威胁]]></itunes:summary>
+      <description><![CDATA[本期节目深入解读2026年5月10日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- 英特尔与苹果达成芯片代工协议，股价双双创历史新高
+- 华为昇腾系列AI芯片有望拿下国内市场最大份额，昆仑芯启动科创板上市
+- 中科院"太极计划"皮米级引力波干涉仪地面测试通过
+
+【经济板块】
+- 美股标普500和纳指连续六周上涨，AI芯片与存储为核心主线
+- 中国前4月外贸进出口总值16.23万亿元，同比增长14.9%
+- 高盛维持A股超配评级，沪深300目标上调至5300点
+
+【政治板块】
+- 俄乌实行三天临时停火并交换1000名战俘
+- 中美在日内瓦举行经贸会谈，聚焦务实合作与分歧管控
+- 美伊霍尔木兹海峡对峙升级，全球石油贸易面临严重威胁]]></description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-05-10/episode.mp3" length="2990000" type="audio/mpeg"/>
+      <guid>https://dragronstranding.github.io/daily-podcast/2026-05-10/episode.mp3</guid>
+      <pubDate>Sat, 10 May 2026 06:00:00 GMT</pubDate>
+      <itunes:duration>08:18</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://dragronstranding.github.io/daily-podcast/2026-05-10/</link>
+    </item>
+    <item>
       <title>每日深度 | 2026-05-09</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>AI接入美军决策系统、美国全球关税被判无效、俄乌胜利日临时停火</itunes:subtitle>
