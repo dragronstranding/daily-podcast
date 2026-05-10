@@ -19,6 +19,49 @@
     <atom:link href="https://dragronstranding.github.io/daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
+      <title>每日深度 | 2026-05-11</title>
+      <itunes:author>每日深度</itunes:author>
+      <itunes:subtitle>马斯克千亿美元芯片工厂、四部委AI能源双向赋能方案、美伊霍尔木兹海峡连续交火</itunes:subtitle>
+      <itunes:summary><![CDATA[本期节目深入解读2026年5月11日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- 马斯克"Terafab"计划拟投资1190亿美元建造全球最大AI芯片工厂
+- 四部委联合发布AI与能源双向赋能行动方案，部署29项重点任务
+- GOSIM巴黎大会揭示AI从"能力突破"走向"工程落地"的产业拐点
+
+【经济板块】
+- 千亿私募景林资产大调仓，减持英伟达Meta，AI投资进入"深水区"
+- 美联储主席换届在即叠加CPI数据公布，全球市场屏息以待
+- A股两融余额创历史新高，科技板块成资金主攻方向
+
+【政治板块】
+- 美伊霍尔木兹海峡连续交火，全球能源供应链面临严峻考验
+- 匈牙利政权更迭，欧尔班时代落幕，毛焦尔当选新总理
+- 英国工党地方选举遭遇历史性溃败，斯塔默执政压力空前]]></itunes:summary>
+      <description><![CDATA[本期节目深入解读2026年5月11日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- 马斯克"Terafab"计划拟投资1190亿美元建造全球最大AI芯片工厂
+- 四部委联合发布AI与能源双向赋能行动方案，部署29项重点任务
+- GOSIM巴黎大会揭示AI从"能力突破"走向"工程落地"的产业拐点
+
+【经济板块】
+- 千亿私募景林资产大调仓，减持英伟达Meta，AI投资进入"深水区"
+- 美联储主席换届在即叠加CPI数据公布，全球市场屏息以待
+- A股两融余额创历史新高，科技板块成资金主攻方向
+
+【政治板块】
+- 美伊霍尔木兹海峡连续交火，全球能源供应链面临严峻考验
+- 匈牙利政权更迭，欧尔班时代落幕，毛焦尔当选新总理
+- 英国工党地方选举遭遇历史性溃败，斯塔默执政压力空前]]></description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-05-11/episode.mp3" length="3014733" type="audio/mpeg"/>
+      <guid>https://dragronstranding.github.io/daily-podcast/2026-05-11/episode.mp3</guid>
+      <pubDate>Mon, 11 May 2026 06:00:00 GMT</pubDate>
+      <itunes:duration>08:22</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://dragronstranding.github.io/daily-podcast/2026-05-11/</link>
+    </item>
+    <item>
       <title>每日深度 | 2026-05-10</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>英特尔苹果世纪合作、华为昇腾登顶国内AI芯片、俄乌临时停火、霍尔木兹海峡对峙升级</itunes:subtitle>
