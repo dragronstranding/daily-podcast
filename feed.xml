@@ -19,6 +19,49 @@
     <atom:link href="https://dragronstranding.github.io/daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
+      <title>每日深度 | 2026-05-12</title>
+      <itunes:author>每日深度</itunes:author>
+      <itunes:subtitle>英伟达400亿美元AI投资版图、A股重返4200点创十年新高、特朗普确认5月13日访华</itunes:subtitle>
+      <itunes:summary><![CDATA[本期节目深入解读2026年5月12日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- 英伟达2026年股权投资超400亿美元，全面布局AI生态
+- OpenAI发布GPT-5.5 Instant，大模型从"能说会道"到"专业可信"
+- 苹果与英特尔达成芯片代工合作，半导体格局生变
+
+【经济板块】
+- A股重回4200点，创2015年7月以来近十年新高
+- 存储芯片"超级周期"持续，美光市值突破7000亿美元
+- 美欧贸易摩擦升级，特朗普对欧盟汽车加征25%关税
+
+【政治板块】
+- 特朗普确认5月13日至15日访华，全球秩序重构的"关键棋"
+- 美伊接近达成停战谅解备忘录，油价高位回落
+- 弗里德曼发文呼吁中美AI合作，"共同敌人"论引发讨论]]></itunes:summary>
+      <description><![CDATA[本期节目深入解读2026年5月12日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- 英伟达2026年股权投资超400亿美元，全面布局AI生态
+- OpenAI发布GPT-5.5 Instant，大模型从"能说会道"到"专业可信"
+- 苹果与英特尔达成芯片代工合作，半导体格局生变
+
+【经济板块】
+- A股重回4200点，创2015年7月以来近十年新高
+- 存储芯片"超级周期"持续，美光市值突破7000亿美元
+- 美欧贸易摩擦升级，特朗普对欧盟汽车加征25%关税
+
+【政治板块】
+- 特朗普确认5月13日至15日访华，全球秩序重构的"关键棋"
+- 美伊接近达成停战谅解备忘录，油价高位回落
+- 弗里德曼发文呼吁中美AI合作，"共同敌人"论引发讨论]]></description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-05-12/episode.mp3" length="3825021" type="audio/mpeg"/>
+      <guid>https://dragronstranding.github.io/daily-podcast/2026-05-12/episode.mp3</guid>
+      <pubDate>Tue, 12 May 2026 06:00:00 GMT</pubDate>
+      <itunes:duration>10:35</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://dragronstranding.github.io/daily-podcast/2026-05-12/</link>
+    </item>
+    <item>
       <title>每日深度 | 2026-05-11</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>马斯克千亿美元芯片工厂、四部委AI能源双向赋能方案、美伊霍尔木兹海峡连续交火</itunes:subtitle>
