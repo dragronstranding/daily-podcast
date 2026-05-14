@@ -19,6 +19,49 @@
     <atom:link href="https://dragronstranding.github.io/daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
+      <title>每日深度 | 2026-05-14</title>
+      <itunes:author>每日深度</itunes:author>
+      <itunes:subtitle>AI Agent市场突破2000亿美元、油价突破100美元大关、美国家庭债务违约率创八年新高</itunes:subtitle>
+      <itunes:summary><![CDATA[本期节目深入解读2026年5月14日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- AI Agent市场规模突破2065亿美元，企业需求从"能对话"转向"能执行"
+- Meta 20亿美元收购机器人初创公司因中国禁令搁浅
+- 字节跳动海外获取英伟达高端芯片，算力争夺战升级
+
+【经济板块】
+- 国际油价突破100美元大关，WTI原油达101美元，布伦特原油飙升至107美元
+- 美国家庭债务违约率创八年新高，达4.8%
+- 黄金价格收复4700美元关口，避险资产受追捧
+
+【政治板块】
+- 中东局势再度紧张，特朗普政府不排除军事打击
+- 中国对53个非洲国家实施零关税，中非合作再上新台阶
+- 外交部发言人回应多项国际议题，展现中国外交立场]]></itunes:summary>
+      <description><![CDATA[本期节目深入解读2026年5月14日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- AI Agent市场规模突破2065亿美元，企业需求从"能对话"转向"能执行"
+- Meta 20亿美元收购机器人初创公司因中国禁令搁浅
+- 字节跳动海外获取英伟达高端芯片，算力争夺战升级
+
+【经济板块】
+- 国际油价突破100美元大关，WTI原油达101美元，布伦特原油飙升至107美元
+- 美国家庭债务违约率创八年新高，达4.8%
+- 黄金价格收复4700美元关口，避险资产受追捧
+
+【政治板块】
+- 中东局势再度紧张，特朗普政府不排除军事打击
+- 中国对53个非洲国家实施零关税，中非合作再上新台阶
+- 外交部发言人回应多项国际议题，展现中国外交立场]]></description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-05-14/episode.mp3" length="3500000" type="audio/mpeg"/>
+      <guid>https://dragronstranding.github.io/daily-podcast/2026-05-14/episode.mp3</guid>
+      <pubDate>Thu, 14 May 2026 06:00:00 GMT</pubDate>
+      <itunes:duration>09:45</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://dragronstranding.github.io/daily-podcast/2026-05-14/</link>
+    </item>
+    <item>
       <title>每日深度 | 2026-05-12</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>英伟达400亿美元AI投资版图、A股重返4200点创十年新高、特朗普确认5月13日访华</itunes:subtitle>
