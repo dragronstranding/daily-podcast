@@ -19,6 +19,49 @@
     <atom:link href="https://dragronstranding.github.io/daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
+      <title>每日深度 | 2026-05-21</title>
+      <itunes:author>每日深度</itunes:author>
+      <itunes:subtitle>Google I/O 2026开启AI Agent时代、美联储降息概率跌至1%、俄乌冲突触碰核红线</itunes:subtitle>
+      <itunes:summary><![CDATA[本期节目深入解读2026年5月21日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- Google I/O 2026：AI核心战场从"聊天"转向"执行"，Gemini Spark个人智能体亮相
+- 百度Create大会同步强调智能体战略，中美AI巨头不谋而合
+- 编程AI大战升级：OpenAI Codex、Claude、Gemini竞争Agentic Coding能力
+
+【经济板块】
+- 美联储2026年降息概率骤降至1%，全球进入"高利率常态"
+- 10年期美债利率突破4.5%，日债利率失控、欧元区债务压力重现
+- 中美经贸磋商达成五方面初步成果，但结构性矛盾未消除
+
+【政治板块】
+- 俄乌冲突升级：乌军击中俄黑海舰队两艘登陆舰，局势触碰核红线
+- 特朗普政府双线作战：入侵委内瑞拉同时拦截俄油轮
+- 特朗普2.0外交特征：交易主义、军事冒险、国内政治驱动]]></itunes:summary>
+      <description><![CDATA[本期节目深入解读2026年5月21日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- Google I/O 2026：AI核心战场从"聊天"转向"执行"，Gemini Spark个人智能体亮相
+- 百度Create大会同步强调智能体战略，中美AI巨头不谋而合
+- 编程AI大战升级：OpenAI Codex、Claude、Gemini竞争Agentic Coding能力
+
+【经济板块】
+- 美联储2026年降息概率骤降至1%，全球进入"高利率常态"
+- 10年期美债利率突破4.5%，日债利率失控、欧元区债务压力重现
+- 中美经贸磋商达成五方面初步成果，但结构性矛盾未消除
+
+【政治板块】
+- 俄乌冲突升级：乌军击中俄黑海舰队两艘登陆舰，局势触碰核红线
+- 特朗普政府双线作战：入侵委内瑞拉同时拦截俄油轮
+- 特朗普2.0外交特征：交易主义、军事冒险、国内政治驱动]]></description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-05-21/episode.mp3" length="4200000" type="audio/mpeg"/>
+      <guid>https://dragronstranding.github.io/daily-podcast/2026-05-21/episode.mp3</guid>
+      <pubDate>Thu, 21 May 2026 06:00:00 GMT</pubDate>
+      <itunes:duration>11:40</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://dragronstranding.github.io/daily-podcast/2026-05-21/</link>
+    </item>
+    <item>
       <title>每日深度 | 2026-05-14</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>AI Agent市场突破2000亿美元、油价突破100美元大关、美国家庭债务违约率创八年新高</itunes:subtitle>
