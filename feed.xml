@@ -17,7 +17,95 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Business"/>
     <atom:link href="https://dragronstranding.github.io/daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    
+
+    <item>
+      <title>每日深度 | 2026-06-10</title>
+      <itunes:author>每日深度</itunes:author>
+      <itunes:subtitle>苹果Siri全面接入谷歌Gemini、SpaceX史诗级IPO、中东伊以停火但危机未消</itunes:subtitle>
+      <itunes:summary><![CDATA[本期节目深入解读2026年6月10日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- 苹果WWDC 2026：Siri全面接入谷歌Gemini大模型，库克告别之作重塑AI格局
+- 英特尔获谷歌300万颗TPU大单，芯片代工格局生变
+- SpaceX史诗级IPO：筹资750亿美元，估值1.8万亿美元
+
+【经济板块】
+- 国际油价站稳90美元上方，三大机构集体下调全球增长预期
+- 美股分化加剧：芯片股反弹，道指连跌，消费信心恶化
+- 欧洲经济承压：德国工厂订单大跌，欧盟对俄能源制裁加码
+
+【政治板块】
+- 中东局势：伊以停火脆弱，美伊谈判进入关键窗口期
+- 欧盟对俄强硬加码：地中海扣押俄油轮
+- 中国明确立场：反对单边制裁，坚守多边主义]]></itunes:summary>
+      <description><![CDATA[本期节目深入解读2026年6月10日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- 苹果WWDC 2026：Siri全面接入谷歌Gemini大模型，库克告别之作重塑AI格局
+- 英特尔获谷歌300万颗TPU大单，芯片代工格局生变
+- SpaceX史诗级IPO：筹资750亿美元，估值1.8万亿美元
+
+【经济板块】
+- 国际油价站稳90美元上方，三大机构集体下调全球增长预期
+- 美股分化加剧：芯片股反弹，道指连跌，消费信心恶化
+- 欧洲经济承压：德国工厂订单大跌，欧盟对俄能源制裁加码
+
+【政治板块】
+- 中东局势：伊以停火脆弱，美伊谈判进入关键窗口期
+- 欧盟对俄强硬加码：地中海扣押俄油轮
+- 中国明确立场：反对单边制裁，坚守多边主义]]></description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-10/episode.mp3" length="3179000" type="audio/mpeg"/>
+      <guid>https://dragronstranding.github.io/daily-podcast/2026-06-10/episode.mp3</guid>
+      <pubDate>Wed, 10 Jun 2026 06:00:00 GMT</pubDate>
+      <itunes:duration>08:30</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://dragronstranding.github.io/daily-podcast/2026-06-10/</link>
+    </item>
+
+    <item>
+      <title>每日深度 | 2026-05-26</title>
+      <itunes:author>每日深度</itunes:author>
+      <itunes:subtitle>全球AI技术大会杭州启幕、美联储换帅引发全球金融变局、中美构建建设性战略稳定关系</itunes:subtitle>
+      <itunes:summary><![CDATA[本期节目深入解读2026年5月26日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- 2026全球人工智能技术大会在杭州启幕，AI从实验室走向产业深水区
+- 教育部发布《2026年教育数字化战略行动工作要点》，90%中小学将普及AI辅助教学
+- 国家级AI产业知识产权运营中心揭牌，中国AI战略从技术追赶转向规则制定
+
+【经济板块】
+- 凯文·沃什宣誓就任美联储第17任主席，54:45票差创最窄纪录
+- 霍尔木兹危机持续，布伦特原油维持在110美元高位
+- 中国减持美债至6523亿美元，创2008年以来最低，黄金储备大增超10%
+
+【政治板块】
+- 习近平主席与特朗普总统举行历史性会谈，构建"中美建设性战略稳定关系"
+- 台湾问题成为中美关系核心关切，美方承诺不支持"台独"
+- 中美就中东局势、乌克兰危机、朝鲜半岛等重大国际问题交换意见]]></itunes:summary>
+      <description><![CDATA[本期节目深入解读2026年5月26日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- 2026全球人工智能技术大会在杭州启幕，AI从实验室走向产业深水区
+- 教育部发布《2026年教育数字化战略行动工作要点》，90%中小学将普及AI辅助教学
+- 国家级AI产业知识产权运营中心揭牌，中国AI战略从技术追赶转向规则制定
+
+【经济板块】
+- 凯文·沃什宣誓就任美联储第17任主席，54:45票差创最窄纪录
+- 霍尔木兹危机持续，布伦特原油维持在110美元高位
+- 中国减持美债至6523亿美元，创2008年以来最低，黄金储备大增超10%
+
+【政治板块】
+- 习近平主席与特朗普总统举行历史性会谈，构建"中美建设性战略稳定关系"
+- 台湾问题成为中美关系核心关切，美方承诺不支持"台独"
+- 中美就中东局势、乌克兰危机、朝鲜半岛等重大国际问题交换意见]]></description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-05-26/episode.mp3" length="4500000" type="audio/mpeg"/>
+      <guid>https://dragronstranding.github.io/daily-podcast/2026-05-26/episode.mp3</guid>
+      <pubDate>Tue, 26 May 2026 06:00:00 GMT</pubDate>
+      <itunes:duration>12:30</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://dragronstranding.github.io/daily-podcast/2026-05-26/</link>
+    </item>
+
     <item>
       <title>每日深度 | 2026-05-21</title>
       <itunes:author>每日深度</itunes:author>
