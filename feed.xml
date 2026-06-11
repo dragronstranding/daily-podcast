@@ -19,6 +19,50 @@
     <atom:link href="https://dragronstranding.github.io/daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>每日深度 | 2026-06-11</title>
+      <itunes:author>每日深度</itunes:author>
+      <itunes:subtitle>中东火药桶再燃、美国通胀破4、中国AI通信政策落地</itunes:subtitle>
+      <itunes:summary><![CDATA[本期节目深入解读2026年6月11日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- 工信部发布AI+通信三年行动计划，城域算力1毫秒时延圈覆盖率目标75%
+- SpaceX即将上市，商业航天进入资本化元年
+- 苹果AI国区再度缺席，数据主权与全球化服务张力加剧
+
+【经济板块】
+- 美国5月CPI同比破4%，创三年新高，美联储面临艰难抉择
+- 中国5月经济数据：CPI平稳、PPI上涨、新能源汽车渗透率56.9%
+- OpenAI筹备上市，AI产业从烧钱竞赛进入资本回报阶段
+
+【政治板块】
+- 美伊军事对峙升级，霍尔木兹海峡告急，伊朗宣布封锁海峡
+- 美国将中国科技企业列入军事企业清单，中美科技脱钩深化
+- 印度威胁切断巴基斯坦水源，南亚水资源博弈升级]]></itunes:summary>
+      <description><![CDATA[本期节目深入解读2026年6月11日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- 工信部发布AI+通信三年行动计划，城域算力1毫秒时延圈覆盖率目标75%
+- SpaceX即将上市，商业航天进入资本化元年
+- 苹果AI国区再度缺席，数据主权与全球化服务张力加剧
+
+【经济板块】
+- 美国5月CPI同比破4%，创三年新高，美联储面临艰难抉择
+- 中国5月经济数据：CPI平稳、PPI上涨、新能源汽车渗透率56.9%
+- OpenAI筹备上市，AI产业从烧钱竞赛进入资本回报阶段
+
+【政治板块】
+- 美伊军事对峙升级，霍尔木兹海峡告急，伊朗宣布封锁海峡
+- 美国将中国科技企业列入军事企业清单，中美科技脱钩深化
+- 印度威胁切断巴基斯坦水源，南亚水资源博弈升级]]></description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-11/episode.mp3" length="4912560" type="audio/mpeg"/>
+      <guid>https://dragronstranding.github.io/daily-podcast/2026-06-11/episode.mp3</guid>
+      <pubDate>Thu, 11 Jun 2026 06:00:00 GMT</pubDate>
+      <itunes:duration>13:40</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://dragronstranding.github.io/daily-podcast/2026-06-11/</link>
+    </item>
+
+    <item>
       <title>每日深度 | 2026-06-10</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>苹果Siri全面接入谷歌Gemini、SpaceX史诗级IPO、中东伊以停火但危机未消</itunes:subtitle>
