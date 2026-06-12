@@ -19,6 +19,50 @@
     <atom:link href="https://dragronstranding.github.io/daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>每日深度 | 2026-06-12</title>
+      <itunes:author>每日深度</itunes:author>
+      <itunes:subtitle>特朗普取消伊朗军事打击、SpaceX史上最大IPO750亿美元、苹果WWDC库克最后一舞</itunes:subtitle>
+      <itunes:summary><![CDATA[本期节目深入解读2026年6月12日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- 苹果WWDC 2026：库克「最后一舞」，Siri AI融合谷歌Gemini惊艳亮相
+- SpaceX史上最大IPO：募资750亿美元，估值1.77万亿美元，马斯克迈向万亿富豪
+- 苹果AI国行缺席，合规门槛折射全球科技产业地缘政治分裂
+
+【经济板块】
+- 甲骨文股价暴跌11%：AI基建狂潮下自由现金流缺口237亿美元
+- 欧洲央行时隔三年首次加息，7月或再次行动
+- 黄金价格跌穿4100美元，市场对加息预期升温
+
+【政治板块】
+- 特朗普戏剧性取消对伊朗军事打击，称协议即将签署
+- 美联储新主席沃什即将首秀，市场关注政策转向
+- 美以在伊朗问题上现微妙分歧，以色列非谅解备忘录方]]></itunes:summary>
+      <description><![CDATA[本期节目深入解读2026年6月12日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- 苹果WWDC 2026：库克「最后一舞」，Siri AI融合谷歌Gemini惊艳亮相
+- SpaceX史上最大IPO：募资750亿美元，估值1.77万亿美元，马斯克迈向万亿富豪
+- 苹果AI国行缺席，合规门槛折射全球科技产业地缘政治分裂
+
+【经济板块】
+- 甲骨文股价暴跌11%：AI基建狂潮下自由现金流缺口237亿美元
+- 欧洲央行时隔三年首次加息，7月或再次行动
+- 黄金价格跌穿4100美元，市场对加息预期升温
+
+【政治板块】
+- 特朗普戏剧性取消对伊朗军事打击，称协议即将签署
+- 美联储新主席沃什即将首秀，市场关注政策转向
+- 美以在伊朗问题上现微妙分歧，以色列非谅解备忘录方]]></description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-12/episode.mp3" length="3427632" type="audio/mpeg"/>
+      <guid>https://dragronstranding.github.io/daily-podcast/2026-06-12/episode.mp3</guid>
+      <pubDate>Fri, 12 Jun 2026 06:00:00 GMT</pubDate>
+      <itunes:duration>14:15</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://dragronstranding.github.io/daily-podcast/2026-06-12/</link>
+    </item>
+
+    <item>
       <title>每日深度 | 2026-06-11</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>中东火药桶再燃、美国通胀破4、中国AI通信政策落地</itunes:subtitle>
