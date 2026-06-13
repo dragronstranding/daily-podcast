@@ -19,6 +19,44 @@
     <atom:link href="https://dragronstranding.github.io/daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>每日深度 | 2026-06-13</title>
+      <itunes:author>每日深度</itunes:author>
+      <itunes:subtitle>宇树科技73天闪电过会、SpaceX IPO暴涨19%、全球芯片三巨头同时被限</itunes:subtitle>
+      <itunes:summary><![CDATA[本期节目深入解读2026年6月13日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- 宇树科技科创板73天闪电过会：人形机器人赛道创A股纪录，拟募资42亿
+- 中国开源AI崛起：The Verge与TechCrunch称中国大模型已成全球开源领导者
+
+【经济板块】
+- SpaceX IPO首日暴涨19.3%，总市值达2.1万亿美元，创美股历史纪录
+- A股政策"三重共振"：央行、证监会、基金新规齐发力，沪指4000点上方震荡
+
+【政治板块】
+- 美国对古巴封锁加码：鲁比奥的冷战思维与拉美软实力流失
+- 全球芯片地缘政治激化：SK海力士、三星、台积电同时面临出口限制]]></itunes:summary>
+      <description><![CDATA[本期节目深入解读2026年6月13日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- 宇树科技科创板73天闪电过会：人形机器人赛道创A股纪录，拟募资42亿
+- 中国开源AI崛起：The Verge与TechCrunch称中国大模型已成全球开源领导者
+
+【经济板块】
+- SpaceX IPO首日暴涨19.3%，总市值达2.1万亿美元，创美股历史纪录
+- A股政策"三重共振"：央行、证监会、基金新规齐发力，沪指4000点上方震荡
+
+【政治板块】
+- 美国对古巴封锁加码：鲁比奥的冷战思维与拉美软实力流失
+- 全球芯片地缘政治激化：SK海力士、三星、台积电同时面临出口限制]]></description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-13/episode.mp3" length="3587904" type="audio/mpeg"/>
+      <guid>https://dragronstranding.github.io/daily-podcast/2026-06-13/episode.mp3</guid>
+      <pubDate>Sat, 13 Jun 2026 06:00:00 GMT</pubDate>
+      <itunes:duration>10:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://dragronstranding.github.io/daily-podcast/2026-06-13/</link>
+    </item>
+
+    <item>
       <title>每日深度 | 2026-06-12</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>特朗普取消伊朗军事打击、SpaceX史上最大IPO750亿美元、苹果WWDC库克最后一舞</itunes:subtitle>
