@@ -19,6 +19,50 @@
     <atom:link href="https://dragronstranding.github.io/daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>每日深度 | 2026-06-14</title>
+      <itunes:author>每日深度</itunes:author>
+      <itunes:subtitle>智源发布世界基座模型、美伊和平协议文本敲定、中国政府债务首破百万亿</itunes:subtitle>
+      <itunes:summary><![CDATA[本期节目深入解读2026年6月14日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- 智源发布全球首个通用世界基座模型"悟界·Physis-v0.1"，AI从"预测下一个词元"转向"预测下一个物理状态"
+- OpenAI宣布一年内IPO，美国将AI大模型纳入"军火级"出口管制
+- 短视频AI内容强制标注新规正式全网落地
+
+【经济板块】
+- 中国政府债券余额首破100万亿，央行6000亿逆回购释放流动性
+- SpaceX上市首日市值跃居全球第六，马斯克成全球首位"万亿富翁"
+- 长鑫科技科创板IPO获批，募资295亿，国产存储芯片超级周期开启
+
+【政治板块】
+- 美伊和平协议最终文本敲定，"伊斯兰堡协议"分两阶段推进
+- 日本安保政策大转向，将中国定位为"前所未有的最大战略挑战"
+- G7峰会倒计时，法国主动向中国发出邀约]]></itunes:summary>
+      <description><![CDATA[本期节目深入解读2026年6月14日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- 智源发布全球首个通用世界基座模型"悟界·Physis-v0.1"，AI从"预测下一个词元"转向"预测下一个物理状态"
+- OpenAI宣布一年内IPO，美国将AI大模型纳入"军火级"出口管制
+- 短视频AI内容强制标注新规正式全网落地
+
+【经济板块】
+- 中国政府债券余额首破100万亿，央行6000亿逆回购释放流动性
+- SpaceX上市首日市值跃居全球第六，马斯克成全球首位"万亿富翁"
+- 长鑫科技科创板IPO获批，募资295亿，国产存储芯片超级周期开启
+
+【政治板块】
+- 美伊和平协议最终文本敲定，"伊斯兰堡协议"分两阶段推进
+- 日本安保政策大转向，将中国定位为"前所未有的最大战略挑战"
+- G7峰会倒计时，法国主动向中国发出邀约]]></description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-14/episode.mp3" length="3804480" type="audio/mpeg"/>
+      <guid>https://dragronstranding.github.io/daily-podcast/2026-06-14/episode.mp3</guid>
+      <pubDate>Sun, 14 Jun 2026 06:00:00 GMT</pubDate>
+      <itunes:duration>08:30</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://dragronstranding.github.io/daily-podcast/2026-06-14/</link>
+    </item>
+
+    <item>
       <title>每日深度 | 2026-06-13</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>宇树科技73天闪电过会、SpaceX IPO暴涨19%、全球芯片三巨头同时被限</itunes:subtitle>
