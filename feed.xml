@@ -19,6 +19,50 @@
     <atom:link href="https://dragronstranding.github.io/daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>每日深度 | 2026-06-15</title>
+      <itunes:author>每日深度</itunes:author>
+      <itunes:subtitle>苹果谷歌英伟达三巨头联手AI、美联储新帅沃什首秀、美伊和平协议落地、乌克兰启动欧盟入盟谈判</itunes:subtitle>
+      <itunes:summary><![CDATA[本期节目深入解读2026年6月15日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- 苹果、谷歌、英伟达罕见联手开发新一代AI大模型"Apple Foundation Model Cloud Pro"
+- SK海力士确认8月登陆纳斯达克，募资最高140亿美元，市值突破万亿美元
+- 谷歌DeepMind发布3万字ASI路线图，勾勒从AGI到超级智能的演进路径
+
+【经济板块】
+- 美联储6月议息会议召开，新主席沃什首次公开亮相，预计维持利率不变
+- 美伊和平协议正式达成，WTI原油一度跌超5%，全球通胀预期降温
+- 美股三大指数集体收涨，但科技七巨头跑输大盘
+
+【政治板块】
+- 欧盟正式启动乌克兰和摩尔多瓦入盟谈判，开启长达10-15年的马拉松
+- 美伊和平协议：特朗普的外交豪赌，协议脆弱性不容忽视
+- 全球秩序加速从"单极"向"多极"演变]]></itunes:summary>
+      <description><![CDATA[本期节目深入解读2026年6月15日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- 苹果、谷歌、英伟达罕见联手开发新一代AI大模型"Apple Foundation Model Cloud Pro"
+- SK海力士确认8月登陆纳斯达克，募资最高140亿美元，市值突破万亿美元
+- 谷歌DeepMind发布3万字ASI路线图，勾勒从AGI到超级智能的演进路径
+
+【经济板块】
+- 美联储6月议息会议召开，新主席沃什首次公开亮相，预计维持利率不变
+- 美伊和平协议正式达成，WTI原油一度跌超5%，全球通胀预期降温
+- 美股三大指数集体收涨，但科技七巨头跑输大盘
+
+【政治板块】
+- 欧盟正式启动乌克兰和摩尔多瓦入盟谈判，开启长达10-15年的马拉松
+- 美伊和平协议：特朗普的外交豪赌，协议脆弱性不容忽视
+- 全球秩序加速从"单极"向"多极"演变]]></description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-15/episode.mp3" length="3455280" type="audio/mpeg"/>
+      <guid>https://dragronstranding.github.io/daily-podcast/2026-06-15/episode.mp3</guid>
+      <pubDate>Mon, 15 Jun 2026 06:00:00 GMT</pubDate>
+      <itunes:duration>12:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://dragronstranding.github.io/daily-podcast/2026-06-15/</link>
+    </item>
+
+    <item>
       <title>每日深度 | 2026-06-14</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>智源发布世界基座模型、美伊和平协议文本敲定、中国政府债务首破百万亿</itunes:subtitle>
