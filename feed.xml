@@ -19,6 +19,48 @@
     <atom:link href="https://dragronstranding.github.io/daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>每日深度 | 2026-06-17</title>
+      <itunes:author>每日深度</itunes:author>
+      <itunes:subtitle>苹果WWDC库克谢幕Siri重生、AI智能体安全治理研讨会、A股全线反弹、美伊47年恩怨即将画上句号</itunes:subtitle>
+      <itunes:summary><![CDATA[本期节目深入解读2026年6月17日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- 苹果WWDC 2026：库克谢幕之作，Siri全面重生，但股价跳水市值蒸发5700亿
+- AI智能体安全治理研讨会在京召开，智能体从概念走向规模化应用
+- NVIDIA Blackwell架构称霸Agent基准测试，开源Cosmos 3并收购Kumo AI
+
+【经济板块】
+- A股三大指数全线反弹，两市成交8623亿，北向资金净流入42.6亿
+- 美伊和解冲击大宗商品：WTI原油暴跌5.59%，甲醇两日跌超14%
+- 国家发改委推进"六张网"建设，陆家嘴论坛在上海举行
+
+【政治板块】
+- 美伊和平协议文本敲定，6月19日瑞士正式签署，结束47年敌对
+- 中国发布全球治理白皮书，阐述多边主义主张]]></itunes:summary>
+      <description><![CDATA[本期节目深入解读2026年6月17日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- 苹果WWDC 2026：库克谢幕之作，Siri全面重生，但股价跳水市值蒸发5700亿
+- AI智能体安全治理研讨会在京召开，智能体从概念走向规模化应用
+- NVIDIA Blackwell架构称霸Agent基准测试，开源Cosmos 3并收购Kumo AI
+
+【经济板块】
+- A股三大指数全线反弹，两市成交8623亿，北向资金净流入42.6亿
+- 美伊和解冲击大宗商品：WTI原油暴跌5.59%，甲醇两日跌超14%
+- 国家发改委推进"六张网"建设，陆家嘴论坛在上海举行
+
+【政治板块】
+- 美伊和平协议文本敲定，6月19日瑞士正式签署，结束47年敌对
+- 中国发布全球治理白皮书，阐述多边主义主张]]></description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-17/episode.mp3" length="3690496" type="audio/mpeg"/>
+      <guid>https://dragronstranding.github.io/daily-podcast/2026-06-17/episode.mp3</guid>
+      <pubDate>Wed, 17 Jun 2026 06:00:00 GMT</pubDate>
+      <itunes:duration>12:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://dragronstranding.github.io/daily-podcast/2026-06-17/</link>
+    </item>
+
+    <item>
       <title>每日深度 | 2026-06-16</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>SpaceX市值突破2.5万亿美元、中国5月经济数据发布、G7峰会开幕前裂痕难掩、美伊停火协议重塑全球资产定价</itunes:subtitle>
