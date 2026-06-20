@@ -19,6 +19,50 @@
     <atom:link href="https://dragronstranding.github.io/daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>每日深度 | 2026-06-20</title>
+      <itunes:author>每日深度</itunes:author>
+      <itunes:subtitle>中国开源AI登顶全球领导地位、美联储沃什首秀鹰派信号、美伊和平协议签署但中东局势仍存变数</itunes:subtitle>
+      <itunes:summary><![CDATA[本期节目深入解读2026年6月20日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- 中国开源AI登顶全球领导地位：2026年Q1全球开源模型下载量187亿次，中国模型占比58%
+- 全球前十开源模型八席来自中国，DeepSeek V4、Qwen 3系列等引领开源生态
+- 全球半导体营收预计突破1万亿美元，AI驱动产业结构性跃迁
+
+【经济板块】
+- 美联储新主席沃什首秀：维持利率3.50%-3.75%不变，但点阵图释放强烈鹰派信号
+- 彻底删除降息暗示和政策前瞻指引，市场预期从降息转向可能加息
+- 黄金价格失守4150美元关口，全球资本重新定价利率环境
+
+【政治板块】
+- 美伊和平谅解备忘录正式签署，霍尔木兹海峡重新开放
+- 特朗普"交易式外交"再得分，但协议脆弱性不容忽视
+- 俄乌冲突持续升级，与伊朗妥协形成鲜明对比]]></itunes:summary>
+      <description><![CDATA[本期节目深入解读2026年6月20日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- 中国开源AI登顶全球领导地位：2026年Q1全球开源模型下载量187亿次，中国模型占比58%
+- 全球前十开源模型八席来自中国，DeepSeek V4、Qwen 3系列等引领开源生态
+- 全球半导体营收预计突破1万亿美元，AI驱动产业结构性跃迁
+
+【经济板块】
+- 美联储新主席沃什首秀：维持利率3.50%-3.75%不变，但点阵图释放强烈鹰派信号
+- 彻底删除降息暗示和政策前瞻指引，市场预期从降息转向可能加息
+- 黄金价格失守4150美元关口，全球资本重新定价利率环境
+
+【政治板块】
+- 美伊和平谅解备忘录正式签署，霍尔木兹海峡重新开放
+- 特朗普"交易式外交"再得分，但协议脆弱性不容忽视
+- 俄乌冲突持续升级，与伊朗妥协形成鲜明对比]]></description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-20/episode.mp3" length="3963904" type="audio/mpeg"/>
+      <guid>https://dragronstranding.github.io/daily-podcast/2026-06-20/episode.mp3</guid>
+      <pubDate>Sat, 20 Jun 2026 06:00:00 GMT</pubDate>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://dragronstranding.github.io/daily-podcast/2026-06-20/</link>
+    </item>
+
+    <item>
       <title>每日深度 | 2026-06-19</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>美伊和平协议正式签署、美联储沃什首秀鹰派信号、半导体材料结构性缺口加剧、G7峰会裂痕深化</itunes:subtitle>
