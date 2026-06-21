@@ -19,6 +19,50 @@
     <atom:link href="https://dragronstranding.github.io/daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>每日深度 | 2026-06-21</title>
+      <itunes:author>每日深度</itunes:author>
+      <itunes:subtitle>美联储华许首秀鹰派信号震动全球、美伊遥签谅解备忘录重塑中东格局、英伟达SK海力士结盟锁定AI内存霸权</itunes:subtitle>
+      <itunes:summary><![CDATA[本期节目深入解读2026年6月21日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- 英伟达与SK海力士达成深度技术合作，共同研发AI工厂下一代高带宽内存
+- 世界人工智能大会倒计时，超300款AI产品将在上海全球首发
+- 英伟达发布Cosmos 3模型与RTX Spark超级芯片，向全栈AI基础设施转型
+
+【经济板块】
+- 美联储新主席华许首秀：维持利率不变但点阵图转鹰，半数官员预判年内加息
+- 美国GDP增速预期下调至2.2%，PCE通胀预期上调至3.6%，滞胀信号显现
+- 全球资本市场剧震：纳指大跌1.37%，离岸人民币逼近6.80，日元跌至40年低位
+
+【政治板块】
+- 美伊以"遥签"方式完成谅解备忘录，伊朗核心诉求获书面确认
+- 中东传统安全观走到尽头，单极霸权加速终结，多极化秩序艰难成型
+- 英法德意四国宣布解除对伊朗制裁，欧洲外交自主迈出关键一步]]></itunes:summary>
+      <description><![CDATA[本期节目深入解读2026年6月21日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- 英伟达与SK海力士达成深度技术合作，共同研发AI工厂下一代高带宽内存
+- 世界人工智能大会倒计时，超300款AI产品将在上海全球首发
+- 英伟达发布Cosmos 3模型与RTX Spark超级芯片，向全栈AI基础设施转型
+
+【经济板块】
+- 美联储新主席华许首秀：维持利率不变但点阵图转鹰，半数官员预判年内加息
+- 美国GDP增速预期下调至2.2%，PCE通胀预期上调至3.6%，滞胀信号显现
+- 全球资本市场剧震：纳指大跌1.37%，离岸人民币逼近6.80，日元跌至40年低位
+
+【政治板块】
+- 美伊以"遥签"方式完成谅解备忘录，伊朗核心诉求获书面确认
+- 中东传统安全观走到尽头，单极霸权加速终结，多极化秩序艰难成型
+- 英法德意四国宣布解除对伊朗制裁，欧洲外交自主迈出关键一步]]></description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-21/episode.mp3" length="3500000" type="audio/mpeg"/>
+      <guid>https://dragronstranding.github.io/daily-podcast/2026-06-21/episode.mp3</guid>
+      <pubDate>Sun, 21 Jun 2026 06:00:00 GMT</pubDate>
+      <itunes:duration>12:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://dragronstranding.github.io/daily-podcast/2026-06-21/</link>
+    </item>
+
+    <item>
       <title>每日深度 | 2026-06-20</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>中国开源AI登顶全球领导地位、美联储沃什首秀鹰派信号、美伊和平协议签署但中东局势仍存变数</itunes:subtitle>
