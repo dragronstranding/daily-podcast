@@ -19,6 +19,50 @@
     <atom:link href="https://dragronstranding.github.io/daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>每日深度 | 2026-06-23</title>
+      <itunes:author>每日深度</itunes:author>
+      <itunes:subtitle>AI算力格局历史性逆转、夏季达沃斯论坛开幕、美伊制裁豁免、英国首相斯塔默辞职</itunes:subtitle>
+      <itunes:summary><![CDATA[本期节目深入解读2026年6月23日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- AI算力格局历史性逆转：CPU重返牌桌挑战英伟达霸权，智能体时代算力配比从1:8趋向1:1
+- 定制化芯片（ASIC）崛起：摩根大通预测2027年ASIC出货量将超越英伟达通用GPU
+- 长鑫存储HBM3突破：国产高端算力存储进入头部云厂商验证，中国成全球第四家掌握HBM量产技术国家
+
+【经济板块】
+- 夏季达沃斯论坛在大连开幕：主题为"规模化创新"，90多国1700余名嘉宾参会
+- A股成交逼近历史峰值：沪深两市成交额3.76万亿元，创历史单日第二高位
+- 美伊制裁豁免冲击原油市场：WTI原油大跌2.3%，60天豁免期不确定性极高
+
+【政治板块】
+- 英国首相斯塔默宣布辞职：十年迎来第七任首相，暴露英国政治体系深层危机
+- 美伊历史性协议：美国解除伊朗石油制裁60天，伊朗解冻120亿美元资产
+- 前美联储主席格林斯潘去世：享年100岁，象征一个货币政策时代的终结]]></itunes:summary>
+      <description><![CDATA[本期节目深入解读2026年6月23日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- AI算力格局历史性逆转：CPU重返牌桌挑战英伟达霸权，智能体时代算力配比从1:8趋向1:1
+- 定制化芯片（ASIC）崛起：摩根大通预测2027年ASIC出货量将超越英伟达通用GPU
+- 长鑫存储HBM3突破：国产高端算力存储进入头部云厂商验证，中国成全球第四家掌握HBM量产技术国家
+
+【经济板块】
+- 夏季达沃斯论坛在大连开幕：主题为"规模化创新"，90多国1700余名嘉宾参会
+- A股成交逼近历史峰值：沪深两市成交额3.76万亿元，创历史单日第二高位
+- 美伊制裁豁免冲击原油市场：WTI原油大跌2.3%，60天豁免期不确定性极高
+
+【政治板块】
+- 英国首相斯塔默宣布辞职：十年迎来第七任首相，暴露英国政治体系深层危机
+- 美伊历史性协议：美国解除伊朗石油制裁60天，伊朗解冻120亿美元资产
+- 前美联储主席格林斯潘去世：享年100岁，象征一个货币政策时代的终结]]></description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-23/episode.mp3" length="1108224" type="audio/mpeg"/>
+      <guid>https://dragronstranding.github.io/daily-podcast/2026-06-23/episode.mp3</guid>
+      <pubDate>Tue, 23 Jun 2026 06:00:00 GMT</pubDate>
+      <itunes:duration>10:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://dragronstranding.github.io/daily-podcast/2026-06-23/</link>
+    </item>
+
+    <item>
       <title>每日深度 | 2026-06-22</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>美国首次将AI模型纳入出口管制、马斯克行权1160亿美元薪酬、美联储点阵图转鹰、美伊首轮谈判特朗普威胁收取中东20%石油收益</itunes:subtitle>
