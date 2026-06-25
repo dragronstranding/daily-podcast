@@ -19,6 +19,50 @@
     <atom:link href="https://dragronstranding.github.io/daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>每日深度 | 2026-06-25</title>
+      <itunes:author>每日深度</itunes:author>
+      <itunes:subtitle>AI就业悖论与工程师岗位逆势增长、微软CEO警告AI权力集中、MWC上海聚焦6G与具身智能、夏季达沃斯论坛开幕、美伊瑞士谈判突破</itunes:subtitle>
+      <itunes:summary><![CDATA[本期节目深入解读2026年6月25日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- AI就业悖论：2026年1-4月科技行业裁员7.9万人，但工程师岗位反而逆势增长，SignalFire数据揭示AI重构而非替代的逻辑
+- 微软CEO纳德拉罕见警告AI权力过度集中：呼吁分散化AI供给结构，不能让少数巨头垄断全球学习
+- MWC 2026上海开幕：6G、移动AI、具身智能、空天地一体化成为焦点，通信行业向算力与智能服务跃迁
+
+【经济板块】
+- 夏季达沃斯论坛在中国举行，李强出席开幕式并致辞，释放高水平对外开放信号
+- 美伊在瑞士达成初步协议：美国暂时解除伊朗石油制裁60天，国际油价应声下跌
+- 霍尔木兹海峡航运安全尚未完全恢复，协议的脆弱性与地缘政治深层变化值得警惕
+
+【政治板块】
+- 美伊谈判突破象征大国从对抗转向竞争性共存，但代理战场博弈仍在继续
+- 特朗普交易主义外交加速国际秩序碎片化，传统多边机制被边缘化
+- 全球进入多极化阵痛期，中等强国外交空间反而扩大]]></itunes:summary>
+      <description><![CDATA[本期节目深入解读2026年6月25日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- AI就业悖论：2026年1-4月科技行业裁员7.9万人，但工程师岗位反而逆势增长
+- 微软CEO纳德拉警告AI权力过度集中，呼吁分散化AI供给结构
+- MWC 2026上海开幕，聚焦6G、移动AI、具身智能
+
+【经济板块】
+- 夏季达沃斯论坛在中国举行，李强出席并致辞
+- 美伊在瑞士达成初步协议，美国暂时解除伊朗石油制裁60天
+- 霍尔木兹海峡航运安全尚未完全恢复
+
+【政治板块】
+- 美伊谈判突破象征大国从对抗转向竞争性共存
+- 特朗普交易主义外交加速国际秩序碎片化
+- 全球进入多极化阵痛期]]></description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-25/episode.mp3" length="4896000" type="audio/mpeg"/>
+      <guid>https://dragronstranding.github.io/daily-podcast/2026-06-25/episode.mp3</guid>
+      <pubDate>Thu, 25 Jun 2026 06:00:00 GMT</pubDate>
+      <itunes:duration>20:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://dragronstranding.github.io/daily-podcast/2026-06-25/</link>
+    </item>
+
+    <item>
       <title>每日深度 | 2026-06-24</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>半导体板块血洗费城指数暴跌7.9%、美联储加息概率飙升至89%、环太平洋军演31国参演创历届之最、伊朗导弹打击美军基地</itunes:subtitle>
