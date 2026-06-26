@@ -19,6 +19,54 @@
     <atom:link href="https://dragronstranding.github.io/daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>每日深度 | 2026-06-26</title>
+      <itunes:author>每日深度</itunes:author>
+      <itunes:subtitle>OpenAI×博通定制AI芯片Jalapeño、IBM突破亚1纳米、中美成立专属贸易理事会、中国发电装机破40亿千瓦、稀土走私案与第26号令、乒乓外交55周年</itunes:subtitle>
+      <itunes:summary><![CDATA[本期节目深入解读2026年6月26日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- OpenAI与博通推出首款定制AI芯片Jalapeño，专为LLM推理设计，9个月极速流片
+- IBM发布全球首款亚1纳米芯片，摩尔定律再获续命
+- 国产光子芯片突破250GHz带宽，6G换道超车可期
+- AI"水危机"：全产业链年耗230亿立方米淡水，占全球工业取水3.7%
+
+【经济板块】
+- 中美敲定共识成立专属贸易理事会，从关税对抗转向制度化协商
+- 中国发电装机破40.1亿千瓦，非化石能源占比达62%，绿电全面上位
+- 美国铜关税最终方案6月30日落地，检验双方诚意
+- 乘用车销量增长但股价阴跌，"有数量无利润"困境待解
+
+【政治板块】
+- 中方抓捕日籍稀土走私人员，商务部发第26号令完善战略矿产出口管制
+- 中美乒乓外交55周年，WTT美国大满贯在洛杉矶开打
+- 夏季达沃斯论坛天津举行，主题"规模化创新"]]></itunes:summary>
+      <description><![CDATA[本期节目深入解读2026年6月26日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- OpenAI与博通推出首款定制AI芯片Jalapeño
+- IBM发布全球首款亚1纳米芯片
+- 国产光子芯片突破250GHz带宽
+- AI"水危机"年耗230亿立方米淡水
+
+【经济板块】
+- 中美成立专属贸易理事会
+- 中国发电装机破40.1亿千瓦，非化石能源占比62%
+- 美国铜关税最终方案即将落地
+- 汽车销量与股价悖论
+
+【政治板块】
+- 稀土走私案与商务部第26号令
+- 中美乒乓外交55周年
+- 夏季达沃斯论坛"规模化创新"]]></description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-26/episode.mp3" length="3854448" type="audio/mpeg"/>
+      <guid>https://dragronstranding.github.io/daily-podcast/2026-06-26/episode.mp3</guid>
+      <pubDate>Fri, 26 Jun 2026 06:00:00 GMT</pubDate>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://dragronstranding.github.io/daily-podcast/2026-06-26/</link>
+    </item>
+
+    <item>
       <title>每日深度 | 2026-06-25</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>AI就业悖论与工程师岗位逆势增长、微软CEO警告AI权力集中、MWC上海聚焦6G与具身智能、夏季达沃斯论坛开幕、美伊瑞士谈判突破</itunes:subtitle>
