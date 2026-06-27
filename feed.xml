@@ -19,6 +19,50 @@
     <atom:link href="https://dragronstranding.github.io/daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>每日深度 | 2026-06-27</title>
+      <itunes:author>每日深度</itunes:author>
+      <itunes:subtitle>安森美70亿美元押注物理AI、美国PCE突破4%、美伊伊斯兰堡备忘录与MATCH法案芯片战争升级</itunes:subtitle>
+      <itunes:summary><![CDATA[本期节目深入解读2026年6月27日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- 安森美半导体宣布70亿美元全股票收购Synaptics，史上最大并购押注"物理AI"
+- IBM公布全球首个亚1纳米芯片技术突破，摩尔定律再获续命
+- 美光、SK海力士因AI需求激增业绩创纪录，存储芯片成"第二战场"
+
+【经济板块】
+- 美国5月PCE年率三年来首次突破4%，一季度GDP上修至2.1%
+- 夏季达沃斯论坛在大连举行，李强总理致辞阐释"规模化创新"
+- 越南即将启动碳市场排放交易，92家企业参与首轮
+
+【政治板块】
+- 美伊公布《伊斯兰堡谅解备忘录》，60天谈判框架启动
+- 美国《MATCH法案》拟限制ASML等对华芯片设备出口，荷兰切断光刻机售后
+- 芯片战争从"不卖新设备"升级到"让旧设备也运转不了"]]></itunes:summary>
+      <description><![CDATA[本期节目深入解读2026年6月27日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- 安森美70亿美元收购Synaptics，押注物理AI
+- IBM亚1纳米芯片突破
+- 美光SK海力士业绩飙升
+
+【经济板块】
+- 美国PCE突破4%，美联储走钢丝
+- 夏季达沃斯论坛"规模化创新"
+- 越南启动碳市场交易
+
+【政治板块】
+- 美伊伊斯兰堡备忘录
+- MATCH法案与ASML困局
+- 芯片战争进入售后服务战]]></description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-27/episode.mp3" length="3335760" type="audio/mpeg"/>
+      <guid>https://dragronstranding.github.io/daily-podcast/2026-06-27/episode.mp3</guid>
+      <pubDate>Sat, 27 Jun 2026 06:00:00 GMT</pubDate>
+      <itunes:duration>13:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://dragronstranding.github.io/daily-podcast/2026-06-27/</link>
+    </item>
+
+    <item>
       <title>每日深度 | 2026-06-26</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>OpenAI×博通定制AI芯片Jalapeño、IBM突破亚1纳米、中美成立专属贸易理事会、中国发电装机破40亿千瓦、稀土走私案与第26号令、乒乓外交55周年</itunes:subtitle>
