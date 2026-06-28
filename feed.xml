@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>每日深度</title>
     <link>https://dragronstranding.github.io/daily-podcast/</link>
@@ -12,17 +12,47 @@
       <itunes:name>每日深度</itunes:name>
       <itunes:email>podcast@example.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://dragronstranding.github.io/daily-podcast/cover.jpg"/>
-    <itunes:category text="News"/>
-    <itunes:category text="Technology"/>
-    <itunes:category text="Business"/>
-    <atom:link href="https://dragronstranding.github.io/daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <itunes:image href="https://dragronstranding.github.io/daily-podcast/cover.jpg" />
+    <itunes:category text="News" />
+    <itunes:category text="Technology" />
+    <itunes:category text="Business" />
+    <atom:link href="https://dragronstranding.github.io/daily-podcast/feed.xml" rel="self" type="application/rss+xml" />
 
-    <item>
+    <item><title>每日深度 | 2026-06-28</title><itunes:author>每日深度</itunes:author><itunes:subtitle>国产超算登顶全球、芯片股崩盘、美伊停火协议濒临破裂</itunes:subtitle><itunes:summary>本期节目深入解读2026年6月28日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- 国产灵晟超算以2.198 ExaFLOPS登顶全球TOP500，实现全栈国产
+- 聚变堆环向场超导磁体完成验收，可控核聚变核心部件100%国产化
+- 全球芯片股崩盘：费城半导体指数暴跌5.3%，安森美重挫23.66%
+
+【经济板块】
+- 亚太股市经历黑色星期五：日经暴跌4.15%，韩国触发熔断
+- 中国政策底密集显现：625亿特别国债、5000亿MLF、科技绿色通道
+- WTI原油跌破70美元，本周累计暴跌近10%
+
+【政治板块】
+- 美伊停火协议濒临破裂，特朗普指责伊朗违反协议
+- 中国明确反对牺牲中方利益的关税交易
+- 2026年高考放榜，AI与具身智能专业火爆</itunes:summary><description>本期节目深入解读2026年6月28日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- 国产灵晟超算以2.198 ExaFLOPS登顶全球TOP500，实现全栈国产
+- 聚变堆环向场超导磁体完成验收，可控核聚变核心部件100%国产化
+- 全球芯片股崩盘：费城半导体指数暴跌5.3%，安森美重挫23.66%
+
+【经济板块】
+- 亚太股市经历黑色星期五：日经暴跌4.15%，韩国触发熔断
+- 中国政策底密集显现：625亿特别国债、5000亿MLF、科技绿色通道
+- WTI原油跌破70美元，本周累计暴跌近10%
+
+【政治板块】
+- 美伊停火协议濒临破裂，特朗普指责伊朗违反协议
+- 中国明确反对牺牲中方利益的关税交易
+- 2026年高考放榜，AI与具身智能专业火爆</description><enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-28/episode.mp3" length="5922000" type="audio/mpeg" /><guid>https://dragronstranding.github.io/daily-podcast/2026-06-28/episode.mp3</guid><pubDate>Sun, 28 Jun 2026 06:00:00 GMT</pubDate><itunes:duration>16:27</itunes:duration><itunes:explicit>no</itunes:explicit><link>https://dragronstranding.github.io/daily-podcast/2026-06-28/</link></item><item>
       <title>每日深度 | 2026-06-27</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>安森美70亿美元押注物理AI、美国PCE突破4%、美伊伊斯兰堡备忘录与MATCH法案芯片战争升级</itunes:subtitle>
-      <itunes:summary><![CDATA[本期节目深入解读2026年6月27日最重要的科技、经济和政治新闻：
+      <itunes:summary>本期节目深入解读2026年6月27日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - 安森美半导体宣布70亿美元全股票收购Synaptics，史上最大并购押注"物理AI"
@@ -37,8 +67,8 @@
 【政治板块】
 - 美伊公布《伊斯兰堡谅解备忘录》，60天谈判框架启动
 - 美国《MATCH法案》拟限制ASML等对华芯片设备出口，荷兰切断光刻机售后
-- 芯片战争从"不卖新设备"升级到"让旧设备也运转不了"]]></itunes:summary>
-      <description><![CDATA[本期节目深入解读2026年6月27日最重要的科技、经济和政治新闻：
+- 芯片战争从"不卖新设备"升级到"让旧设备也运转不了"</itunes:summary>
+      <description>本期节目深入解读2026年6月27日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - 安森美70亿美元收购Synaptics，押注物理AI
@@ -53,8 +83,8 @@
 【政治板块】
 - 美伊伊斯兰堡备忘录
 - MATCH法案与ASML困局
-- 芯片战争进入售后服务战]]></description>
-      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-27/episode.mp3" length="3335760" type="audio/mpeg"/>
+- 芯片战争进入售后服务战</description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-27/episode.mp3" length="3335760" type="audio/mpeg" />
       <guid>https://dragronstranding.github.io/daily-podcast/2026-06-27/episode.mp3</guid>
       <pubDate>Sat, 27 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:duration>13:00</itunes:duration>
@@ -66,7 +96,7 @@
       <title>每日深度 | 2026-06-26</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>OpenAI×博通定制AI芯片Jalapeño、IBM突破亚1纳米、中美成立专属贸易理事会、中国发电装机破40亿千瓦、稀土走私案与第26号令、乒乓外交55周年</itunes:subtitle>
-      <itunes:summary><![CDATA[本期节目深入解读2026年6月26日最重要的科技、经济和政治新闻：
+      <itunes:summary>本期节目深入解读2026年6月26日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - OpenAI与博通推出首款定制AI芯片Jalapeño，专为LLM推理设计，9个月极速流片
@@ -83,8 +113,8 @@
 【政治板块】
 - 中方抓捕日籍稀土走私人员，商务部发第26号令完善战略矿产出口管制
 - 中美乒乓外交55周年，WTT美国大满贯在洛杉矶开打
-- 夏季达沃斯论坛天津举行，主题"规模化创新"]]></itunes:summary>
-      <description><![CDATA[本期节目深入解读2026年6月26日最重要的科技、经济和政治新闻：
+- 夏季达沃斯论坛天津举行，主题"规模化创新"</itunes:summary>
+      <description>本期节目深入解读2026年6月26日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - OpenAI与博通推出首款定制AI芯片Jalapeño
@@ -101,8 +131,8 @@
 【政治板块】
 - 稀土走私案与商务部第26号令
 - 中美乒乓外交55周年
-- 夏季达沃斯论坛"规模化创新"]]></description>
-      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-26/episode.mp3" length="3854448" type="audio/mpeg"/>
+- 夏季达沃斯论坛"规模化创新"</description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-26/episode.mp3" length="3854448" type="audio/mpeg" />
       <guid>https://dragronstranding.github.io/daily-podcast/2026-06-26/episode.mp3</guid>
       <pubDate>Fri, 26 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:duration>15:00</itunes:duration>
@@ -114,7 +144,7 @@
       <title>每日深度 | 2026-06-25</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>AI就业悖论与工程师岗位逆势增长、微软CEO警告AI权力集中、MWC上海聚焦6G与具身智能、夏季达沃斯论坛开幕、美伊瑞士谈判突破</itunes:subtitle>
-      <itunes:summary><![CDATA[本期节目深入解读2026年6月25日最重要的科技、经济和政治新闻：
+      <itunes:summary>本期节目深入解读2026年6月25日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - AI就业悖论：2026年1-4月科技行业裁员7.9万人，但工程师岗位反而逆势增长，SignalFire数据揭示AI重构而非替代的逻辑
@@ -129,8 +159,8 @@
 【政治板块】
 - 美伊谈判突破象征大国从对抗转向竞争性共存，但代理战场博弈仍在继续
 - 特朗普交易主义外交加速国际秩序碎片化，传统多边机制被边缘化
-- 全球进入多极化阵痛期，中等强国外交空间反而扩大]]></itunes:summary>
-      <description><![CDATA[本期节目深入解读2026年6月25日最重要的科技、经济和政治新闻：
+- 全球进入多极化阵痛期，中等强国外交空间反而扩大</itunes:summary>
+      <description>本期节目深入解读2026年6月25日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - AI就业悖论：2026年1-4月科技行业裁员7.9万人，但工程师岗位反而逆势增长
@@ -145,8 +175,8 @@
 【政治板块】
 - 美伊谈判突破象征大国从对抗转向竞争性共存
 - 特朗普交易主义外交加速国际秩序碎片化
-- 全球进入多极化阵痛期]]></description>
-      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-25/episode.mp3" length="4896000" type="audio/mpeg"/>
+- 全球进入多极化阵痛期</description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-25/episode.mp3" length="4896000" type="audio/mpeg" />
       <guid>https://dragronstranding.github.io/daily-podcast/2026-06-25/episode.mp3</guid>
       <pubDate>Thu, 25 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:duration>20:00</itunes:duration>
@@ -158,7 +188,7 @@
       <title>每日深度 | 2026-06-24</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>半导体板块血洗费城指数暴跌7.9%、美联储加息概率飙升至89%、环太平洋军演31国参演创历届之最、伊朗导弹打击美军基地</itunes:subtitle>
-      <itunes:summary><![CDATA[本期节目深入解读2026年6月24日最重要的科技、经济和政治新闻：
+      <itunes:summary>本期节目深入解读2026年6月24日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - 半导体板块血洗：费城半导体指数暴跌7.9%，美光闪迪跌超13%，英伟达市值跌破5万亿美元
@@ -173,8 +203,8 @@
 【政治板块】
 - 第30届环太平洋军演今日开幕：31国2.5万兵力参演，堤丰中导永久留置日本
 - 伊朗导弹打击美军基地：美伊60天窗口期面临严峻考验
-- 夏季达沃斯论坛进入第二天：李强总理会见多国政要]]></itunes:summary>
-      <description><![CDATA[本期节目深入解读2026年6月24日最重要的科技、经济和政治新闻：
+- 夏季达沃斯论坛进入第二天：李强总理会见多国政要</itunes:summary>
+      <description>本期节目深入解读2026年6月24日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - 半导体板块血洗：费城半导体指数暴跌7.9%，美光闪迪跌超13%，英伟达市值跌破5万亿美元
@@ -189,8 +219,8 @@
 【政治板块】
 - 第30届环太平洋军演今日开幕：31国2.5万兵力参演，堤丰中导永久留置日本
 - 伊朗导弹打击美军基地：美伊60天窗口期面临严峻考验
-- 夏季达沃斯论坛进入第二天：李强总理会见多国政要]]></description>
-      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-24/episode.mp3" length="4001616" type="audio/mpeg"/>
+- 夏季达沃斯论坛进入第二天：李强总理会见多国政要</description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-24/episode.mp3" length="4001616" type="audio/mpeg" />
       <guid>https://dragronstranding.github.io/daily-podcast/2026-06-24/episode.mp3</guid>
       <pubDate>Wed, 24 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:duration>10:30</itunes:duration>
@@ -202,7 +232,7 @@
       <title>每日深度 | 2026-06-23</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>AI算力格局历史性逆转、夏季达沃斯论坛开幕、美伊制裁豁免、英国首相斯塔默辞职</itunes:subtitle>
-      <itunes:summary><![CDATA[本期节目深入解读2026年6月23日最重要的科技、经济和政治新闻：
+      <itunes:summary>本期节目深入解读2026年6月23日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - AI算力格局历史性逆转：CPU重返牌桌挑战英伟达霸权，智能体时代算力配比从1:8趋向1:1
@@ -217,8 +247,8 @@
 【政治板块】
 - 英国首相斯塔默宣布辞职：十年迎来第七任首相，暴露英国政治体系深层危机
 - 美伊历史性协议：美国解除伊朗石油制裁60天，伊朗解冻120亿美元资产
-- 前美联储主席格林斯潘去世：享年100岁，象征一个货币政策时代的终结]]></itunes:summary>
-      <description><![CDATA[本期节目深入解读2026年6月23日最重要的科技、经济和政治新闻：
+- 前美联储主席格林斯潘去世：享年100岁，象征一个货币政策时代的终结</itunes:summary>
+      <description>本期节目深入解读2026年6月23日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - AI算力格局历史性逆转：CPU重返牌桌挑战英伟达霸权，智能体时代算力配比从1:8趋向1:1
@@ -233,8 +263,8 @@
 【政治板块】
 - 英国首相斯塔默宣布辞职：十年迎来第七任首相，暴露英国政治体系深层危机
 - 美伊历史性协议：美国解除伊朗石油制裁60天，伊朗解冻120亿美元资产
-- 前美联储主席格林斯潘去世：享年100岁，象征一个货币政策时代的终结]]></description>
-      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-23/episode.mp3" length="1108224" type="audio/mpeg"/>
+- 前美联储主席格林斯潘去世：享年100岁，象征一个货币政策时代的终结</description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-23/episode.mp3" length="1108224" type="audio/mpeg" />
       <guid>https://dragronstranding.github.io/daily-podcast/2026-06-23/episode.mp3</guid>
       <pubDate>Tue, 23 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:duration>10:00</itunes:duration>
@@ -246,7 +276,7 @@
       <title>每日深度 | 2026-06-22</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>美国首次将AI模型纳入出口管制、马斯克行权1160亿美元薪酬、美联储点阵图转鹰、美伊首轮谈判特朗普威胁收取中东20%石油收益</itunes:subtitle>
-      <itunes:summary><![CDATA[本期节目深入解读2026年6月22日最重要的科技、经济和政治新闻：
+      <itunes:summary>本期节目深入解读2026年6月22日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - 美国首次将AI模型纳入出口管制：Anthropic Fable 5和Mythos 5被强制下线，冲击波远超芯片禁令
@@ -261,8 +291,8 @@
 【政治板块】
 - 美伊首轮谈判在瑞士举行，80分钟试探与互信赤字
 - 特朗普威胁收取中东20%石油收益，伊朗代表团暂停谈判抗议
-- 中国外交密集日程：欧洲、东亚、金砖三线并进]]></itunes:summary>
-      <description><![CDATA[本期节目深入解读2026年6月22日最重要的科技、经济和政治新闻：
+- 中国外交密集日程：欧洲、东亚、金砖三线并进</itunes:summary>
+      <description>本期节目深入解读2026年6月22日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - 美国首次将AI模型纳入出口管制：Anthropic Fable 5和Mythos 5被强制下线，冲击波远超芯片禁令
@@ -277,8 +307,8 @@
 【政治板块】
 - 美伊首轮谈判在瑞士举行，80分钟试探与互信赤字
 - 特朗普威胁收取中东20%石油收益，伊朗代表团暂停谈判抗议
-- 中国外交密集日程：欧洲、东亚、金砖三线并进]]></description>
-      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-22/episode.mp3" length="4898816" type="audio/mpeg"/>
+- 中国外交密集日程：欧洲、东亚、金砖三线并进</description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-22/episode.mp3" length="4898816" type="audio/mpeg" />
       <guid>https://dragronstranding.github.io/daily-podcast/2026-06-22/episode.mp3</guid>
       <pubDate>Mon, 22 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:duration>15:00</itunes:duration>
@@ -290,7 +320,7 @@
       <title>每日深度 | 2026-06-21</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>美联储华许首秀鹰派信号震动全球、美伊遥签谅解备忘录重塑中东格局、英伟达SK海力士结盟锁定AI内存霸权</itunes:subtitle>
-      <itunes:summary><![CDATA[本期节目深入解读2026年6月21日最重要的科技、经济和政治新闻：
+      <itunes:summary>本期节目深入解读2026年6月21日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - 英伟达与SK海力士达成深度技术合作，共同研发AI工厂下一代高带宽内存
@@ -305,8 +335,8 @@
 【政治板块】
 - 美伊以"遥签"方式完成谅解备忘录，伊朗核心诉求获书面确认
 - 中东传统安全观走到尽头，单极霸权加速终结，多极化秩序艰难成型
-- 英法德意四国宣布解除对伊朗制裁，欧洲外交自主迈出关键一步]]></itunes:summary>
-      <description><![CDATA[本期节目深入解读2026年6月21日最重要的科技、经济和政治新闻：
+- 英法德意四国宣布解除对伊朗制裁，欧洲外交自主迈出关键一步</itunes:summary>
+      <description>本期节目深入解读2026年6月21日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - 英伟达与SK海力士达成深度技术合作，共同研发AI工厂下一代高带宽内存
@@ -321,8 +351,8 @@
 【政治板块】
 - 美伊以"遥签"方式完成谅解备忘录，伊朗核心诉求获书面确认
 - 中东传统安全观走到尽头，单极霸权加速终结，多极化秩序艰难成型
-- 英法德意四国宣布解除对伊朗制裁，欧洲外交自主迈出关键一步]]></description>
-      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-21/episode.mp3" length="3500000" type="audio/mpeg"/>
+- 英法德意四国宣布解除对伊朗制裁，欧洲外交自主迈出关键一步</description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-21/episode.mp3" length="3500000" type="audio/mpeg" />
       <guid>https://dragronstranding.github.io/daily-podcast/2026-06-21/episode.mp3</guid>
       <pubDate>Sun, 21 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:duration>12:00</itunes:duration>
@@ -334,7 +364,7 @@
       <title>每日深度 | 2026-06-20</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>中国开源AI登顶全球领导地位、美联储沃什首秀鹰派信号、美伊和平协议签署但中东局势仍存变数</itunes:subtitle>
-      <itunes:summary><![CDATA[本期节目深入解读2026年6月20日最重要的科技、经济和政治新闻：
+      <itunes:summary>本期节目深入解读2026年6月20日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - 中国开源AI登顶全球领导地位：2026年Q1全球开源模型下载量187亿次，中国模型占比58%
@@ -349,8 +379,8 @@
 【政治板块】
 - 美伊和平谅解备忘录正式签署，霍尔木兹海峡重新开放
 - 特朗普"交易式外交"再得分，但协议脆弱性不容忽视
-- 俄乌冲突持续升级，与伊朗妥协形成鲜明对比]]></itunes:summary>
-      <description><![CDATA[本期节目深入解读2026年6月20日最重要的科技、经济和政治新闻：
+- 俄乌冲突持续升级，与伊朗妥协形成鲜明对比</itunes:summary>
+      <description>本期节目深入解读2026年6月20日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - 中国开源AI登顶全球领导地位：2026年Q1全球开源模型下载量187亿次，中国模型占比58%
@@ -365,8 +395,8 @@
 【政治板块】
 - 美伊和平谅解备忘录正式签署，霍尔木兹海峡重新开放
 - 特朗普"交易式外交"再得分，但协议脆弱性不容忽视
-- 俄乌冲突持续升级，与伊朗妥协形成鲜明对比]]></description>
-      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-20/episode.mp3" length="3963904" type="audio/mpeg"/>
+- 俄乌冲突持续升级，与伊朗妥协形成鲜明对比</description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-20/episode.mp3" length="3963904" type="audio/mpeg" />
       <guid>https://dragronstranding.github.io/daily-podcast/2026-06-20/episode.mp3</guid>
       <pubDate>Sat, 20 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:duration>15:00</itunes:duration>
@@ -378,7 +408,7 @@
       <title>每日深度 | 2026-06-19</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>美伊和平协议正式签署、美联储沃什首秀鹰派信号、半导体材料结构性缺口加剧、G7峰会裂痕深化</itunes:subtitle>
-      <itunes:summary><![CDATA[本期节目深入解读2026年6月19日最重要的科技、经济和政治新闻：
+      <itunes:summary>本期节目深入解读2026年6月19日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - 半导体材料全面告急：六大核心材料结构性缺口，硅片涨价18%-22%，光刻胶交付周期翻倍
@@ -393,8 +423,8 @@
 【政治板块】
 - 美伊和平协议在瑞士正式签署，结束47年敌对状态
 - G7峰会内部分裂加剧，特朗普威胁对法葡萄酒征收100%关税
-- 日本安保政策大转向，将中国定位为"前所未有的最大战略挑战"]]></itunes:summary>
-      <description><![CDATA[本期节目深入解读2026年6月19日最重要的科技、经济和政治新闻：
+- 日本安保政策大转向，将中国定位为"前所未有的最大战略挑战"</itunes:summary>
+      <description>本期节目深入解读2026年6月19日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - 半导体材料全面告急：六大核心材料结构性缺口，硅片涨价18%-22%，光刻胶交付周期翻倍
@@ -409,8 +439,8 @@
 【政治板块】
 - 美伊和平协议在瑞士正式签署，结束47年敌对状态
 - G7峰会内部分裂加剧，特朗普威胁对法葡萄酒征收100%关税
-- 日本安保政策大转向，将中国定位为"前所未有的最大战略挑战"]]></description>
-      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-19/episode.mp3" length="3570768" type="audio/mpeg"/>
+- 日本安保政策大转向，将中国定位为"前所未有的最大战略挑战"</description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-19/episode.mp3" length="3570768" type="audio/mpeg" />
       <guid>https://dragronstranding.github.io/daily-podcast/2026-06-19/episode.mp3</guid>
       <pubDate>Fri, 19 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:duration>11:54</itunes:duration>
@@ -422,7 +452,7 @@
       <title>每日深度 | 2026-06-18</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>美联储新主席沃什首秀定调高利率、英伟达XR AI平台落地、欧美贸易协议闯关成功</itunes:subtitle>
-      <itunes:summary><![CDATA[本期节目深入解读2026年6月18日最重要的科技、经济和政治新闻：
+      <itunes:summary>本期节目深入解读2026年6月18日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - 英伟达正式发布XR AI平台，将AI代理能力引入AR眼镜，VITURE发布全球首款工业级AI眼镜
@@ -437,8 +467,8 @@
 【政治板块】
 - 特朗普在G7峰会期间威胁恢复对俄罗斯石油制裁
 - 乌克兰总统泽连斯基提议今年冬天前举行美斡旋下的乌俄谈判
-- G7峰会内部分裂迹象明显，西方阵营"代表性赤字"日益严重]]></itunes:summary>
-      <description><![CDATA[本期节目深入解读2026年6月18日最重要的科技、经济和政治新闻：
+- G7峰会内部分裂迹象明显，西方阵营"代表性赤字"日益严重</itunes:summary>
+      <description>本期节目深入解读2026年6月18日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - 英伟达正式发布XR AI平台，将AI代理能力引入AR眼镜，VITURE发布全球首款工业级AI眼镜
@@ -453,8 +483,8 @@
 【政治板块】
 - 特朗普在G7峰会期间威胁恢复对俄罗斯石油制裁
 - 乌克兰总统泽连斯基提议今年冬天前举行美斡旋下的乌俄谈判
-- G7峰会内部分裂迹象明显，西方阵营"代表性赤字"日益严重]]></description>
-      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-18/episode.mp3" length="3865248" type="audio/mpeg"/>
+- G7峰会内部分裂迹象明显，西方阵营"代表性赤字"日益严重</description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-18/episode.mp3" length="3865248" type="audio/mpeg" />
       <guid>https://dragronstranding.github.io/daily-podcast/2026-06-18/episode.mp3</guid>
       <pubDate>Thu, 18 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:duration>12:50</itunes:duration>
@@ -466,7 +496,7 @@
       <title>每日深度 | 2026-06-17</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>苹果WWDC库克谢幕Siri重生、AI智能体安全治理研讨会、A股全线反弹、美伊47年恩怨即将画上句号</itunes:subtitle>
-      <itunes:summary><![CDATA[本期节目深入解读2026年6月17日最重要的科技、经济和政治新闻：
+      <itunes:summary>本期节目深入解读2026年6月17日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - 苹果WWDC 2026：库克谢幕之作，Siri全面重生，但股价跳水市值蒸发5700亿
@@ -480,8 +510,8 @@
 
 【政治板块】
 - 美伊和平协议文本敲定，6月19日瑞士正式签署，结束47年敌对
-- 中国发布全球治理白皮书，阐述多边主义主张]]></itunes:summary>
-      <description><![CDATA[本期节目深入解读2026年6月17日最重要的科技、经济和政治新闻：
+- 中国发布全球治理白皮书，阐述多边主义主张</itunes:summary>
+      <description>本期节目深入解读2026年6月17日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - 苹果WWDC 2026：库克谢幕之作，Siri全面重生，但股价跳水市值蒸发5700亿
@@ -495,8 +525,8 @@
 
 【政治板块】
 - 美伊和平协议文本敲定，6月19日瑞士正式签署，结束47年敌对
-- 中国发布全球治理白皮书，阐述多边主义主张]]></description>
-      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-17/episode.mp3" length="3690496" type="audio/mpeg"/>
+- 中国发布全球治理白皮书，阐述多边主义主张</description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-17/episode.mp3" length="3690496" type="audio/mpeg" />
       <guid>https://dragronstranding.github.io/daily-podcast/2026-06-17/episode.mp3</guid>
       <pubDate>Wed, 17 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:duration>12:00</itunes:duration>
@@ -508,7 +538,7 @@
       <title>每日深度 | 2026-06-16</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>SpaceX市值突破2.5万亿美元、中国5月经济数据发布、G7峰会开幕前裂痕难掩、美伊停火协议重塑全球资产定价</itunes:subtitle>
-      <itunes:summary><![CDATA[本期节目深入解读2026年6月16日最重要的科技、经济和政治新闻：
+      <itunes:summary>本期节目深入解读2026年6月16日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - SpaceX股价再涨19.6%，总市值突破2.5万亿美元，马斯克成全球首位万亿美元身家富豪
@@ -523,8 +553,8 @@
 【政治板块】
 - G7峰会在法国埃维昂莱班开幕，特朗普威胁对法葡萄酒征收100%关税
 - 美伊协议脆弱性分析：以色列、真主党、伊朗强硬派均可能成为破坏者
-- 英国拟立法禁止16岁以下未成年人使用社交媒体，全球最严青少年网络保护法案]]></itunes:summary>
-      <description><![CDATA[本期节目深入解读2026年6月16日最重要的科技、经济和政治新闻：
+- 英国拟立法禁止16岁以下未成年人使用社交媒体，全球最严青少年网络保护法案</itunes:summary>
+      <description>本期节目深入解读2026年6月16日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - SpaceX股价再涨19.6%，总市值突破2.5万亿美元，马斯克成全球首位万亿美元身家富豪
@@ -539,8 +569,8 @@
 【政治板块】
 - G7峰会在法国埃维昂莱班开幕，特朗普威胁对法葡萄酒征收100%关税
 - 美伊协议脆弱性分析：以色列、真主党、伊朗强硬派均可能成为破坏者
-- 英国拟立法禁止16岁以下未成年人使用社交媒体，全球最严青少年网络保护法案]]></description>
-      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-16/episode.mp3" length="5331600" type="audio/mpeg"/>
+- 英国拟立法禁止16岁以下未成年人使用社交媒体，全球最严青少年网络保护法案</description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-16/episode.mp3" length="5331600" type="audio/mpeg" />
       <guid>https://dragronstranding.github.io/daily-podcast/2026-06-16/episode.mp3</guid>
       <pubDate>Tue, 16 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:duration>13:20</itunes:duration>
@@ -552,7 +582,7 @@
       <title>每日深度 | 2026-06-15</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>苹果谷歌英伟达三巨头联手AI、美联储新帅沃什首秀、美伊和平协议落地、乌克兰启动欧盟入盟谈判</itunes:subtitle>
-      <itunes:summary><![CDATA[本期节目深入解读2026年6月15日最重要的科技、经济和政治新闻：
+      <itunes:summary>本期节目深入解读2026年6月15日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - 苹果、谷歌、英伟达罕见联手开发新一代AI大模型"Apple Foundation Model Cloud Pro"
@@ -567,8 +597,8 @@
 【政治板块】
 - 欧盟正式启动乌克兰和摩尔多瓦入盟谈判，开启长达10-15年的马拉松
 - 美伊和平协议：特朗普的外交豪赌，协议脆弱性不容忽视
-- 全球秩序加速从"单极"向"多极"演变]]></itunes:summary>
-      <description><![CDATA[本期节目深入解读2026年6月15日最重要的科技、经济和政治新闻：
+- 全球秩序加速从"单极"向"多极"演变</itunes:summary>
+      <description>本期节目深入解读2026年6月15日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - 苹果、谷歌、英伟达罕见联手开发新一代AI大模型"Apple Foundation Model Cloud Pro"
@@ -583,8 +613,8 @@
 【政治板块】
 - 欧盟正式启动乌克兰和摩尔多瓦入盟谈判，开启长达10-15年的马拉松
 - 美伊和平协议：特朗普的外交豪赌，协议脆弱性不容忽视
-- 全球秩序加速从"单极"向"多极"演变]]></description>
-      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-15/episode.mp3" length="3455280" type="audio/mpeg"/>
+- 全球秩序加速从"单极"向"多极"演变</description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-15/episode.mp3" length="3455280" type="audio/mpeg" />
       <guid>https://dragronstranding.github.io/daily-podcast/2026-06-15/episode.mp3</guid>
       <pubDate>Mon, 15 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:duration>12:00</itunes:duration>
@@ -596,7 +626,7 @@
       <title>每日深度 | 2026-06-14</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>智源发布世界基座模型、美伊和平协议文本敲定、中国政府债务首破百万亿</itunes:subtitle>
-      <itunes:summary><![CDATA[本期节目深入解读2026年6月14日最重要的科技、经济和政治新闻：
+      <itunes:summary>本期节目深入解读2026年6月14日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - 智源发布全球首个通用世界基座模型"悟界·Physis-v0.1"，AI从"预测下一个词元"转向"预测下一个物理状态"
@@ -611,8 +641,8 @@
 【政治板块】
 - 美伊和平协议最终文本敲定，"伊斯兰堡协议"分两阶段推进
 - 日本安保政策大转向，将中国定位为"前所未有的最大战略挑战"
-- G7峰会倒计时，法国主动向中国发出邀约]]></itunes:summary>
-      <description><![CDATA[本期节目深入解读2026年6月14日最重要的科技、经济和政治新闻：
+- G7峰会倒计时，法国主动向中国发出邀约</itunes:summary>
+      <description>本期节目深入解读2026年6月14日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - 智源发布全球首个通用世界基座模型"悟界·Physis-v0.1"，AI从"预测下一个词元"转向"预测下一个物理状态"
@@ -627,8 +657,8 @@
 【政治板块】
 - 美伊和平协议最终文本敲定，"伊斯兰堡协议"分两阶段推进
 - 日本安保政策大转向，将中国定位为"前所未有的最大战略挑战"
-- G7峰会倒计时，法国主动向中国发出邀约]]></description>
-      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-14/episode.mp3" length="3804480" type="audio/mpeg"/>
+- G7峰会倒计时，法国主动向中国发出邀约</description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-14/episode.mp3" length="3804480" type="audio/mpeg" />
       <guid>https://dragronstranding.github.io/daily-podcast/2026-06-14/episode.mp3</guid>
       <pubDate>Sun, 14 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:duration>08:30</itunes:duration>
@@ -640,7 +670,7 @@
       <title>每日深度 | 2026-06-13</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>宇树科技73天闪电过会、SpaceX IPO暴涨19%、全球芯片三巨头同时被限</itunes:subtitle>
-      <itunes:summary><![CDATA[本期节目深入解读2026年6月13日最重要的科技、经济和政治新闻：
+      <itunes:summary>本期节目深入解读2026年6月13日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - 宇树科技科创板73天闪电过会：人形机器人赛道创A股纪录，拟募资42亿
@@ -652,8 +682,8 @@
 
 【政治板块】
 - 美国对古巴封锁加码：鲁比奥的冷战思维与拉美软实力流失
-- 全球芯片地缘政治激化：SK海力士、三星、台积电同时面临出口限制]]></itunes:summary>
-      <description><![CDATA[本期节目深入解读2026年6月13日最重要的科技、经济和政治新闻：
+- 全球芯片地缘政治激化：SK海力士、三星、台积电同时面临出口限制</itunes:summary>
+      <description>本期节目深入解读2026年6月13日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - 宇树科技科创板73天闪电过会：人形机器人赛道创A股纪录，拟募资42亿
@@ -665,8 +695,8 @@
 
 【政治板块】
 - 美国对古巴封锁加码：鲁比奥的冷战思维与拉美软实力流失
-- 全球芯片地缘政治激化：SK海力士、三星、台积电同时面临出口限制]]></description>
-      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-13/episode.mp3" length="3587904" type="audio/mpeg"/>
+- 全球芯片地缘政治激化：SK海力士、三星、台积电同时面临出口限制</description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-13/episode.mp3" length="3587904" type="audio/mpeg" />
       <guid>https://dragronstranding.github.io/daily-podcast/2026-06-13/episode.mp3</guid>
       <pubDate>Sat, 13 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:duration>10:00</itunes:duration>
@@ -678,7 +708,7 @@
       <title>每日深度 | 2026-06-12</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>特朗普取消伊朗军事打击、SpaceX史上最大IPO750亿美元、苹果WWDC库克最后一舞</itunes:subtitle>
-      <itunes:summary><![CDATA[本期节目深入解读2026年6月12日最重要的科技、经济和政治新闻：
+      <itunes:summary>本期节目深入解读2026年6月12日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - 苹果WWDC 2026：库克「最后一舞」，Siri AI融合谷歌Gemini惊艳亮相
@@ -693,8 +723,8 @@
 【政治板块】
 - 特朗普戏剧性取消对伊朗军事打击，称协议即将签署
 - 美联储新主席沃什即将首秀，市场关注政策转向
-- 美以在伊朗问题上现微妙分歧，以色列非谅解备忘录方]]></itunes:summary>
-      <description><![CDATA[本期节目深入解读2026年6月12日最重要的科技、经济和政治新闻：
+- 美以在伊朗问题上现微妙分歧，以色列非谅解备忘录方</itunes:summary>
+      <description>本期节目深入解读2026年6月12日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - 苹果WWDC 2026：库克「最后一舞」，Siri AI融合谷歌Gemini惊艳亮相
@@ -709,8 +739,8 @@
 【政治板块】
 - 特朗普戏剧性取消对伊朗军事打击，称协议即将签署
 - 美联储新主席沃什即将首秀，市场关注政策转向
-- 美以在伊朗问题上现微妙分歧，以色列非谅解备忘录方]]></description>
-      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-12/episode.mp3" length="3427632" type="audio/mpeg"/>
+- 美以在伊朗问题上现微妙分歧，以色列非谅解备忘录方</description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-12/episode.mp3" length="3427632" type="audio/mpeg" />
       <guid>https://dragronstranding.github.io/daily-podcast/2026-06-12/episode.mp3</guid>
       <pubDate>Fri, 12 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:duration>14:15</itunes:duration>
@@ -722,7 +752,7 @@
       <title>每日深度 | 2026-06-11</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>中东火药桶再燃、美国通胀破4、中国AI通信政策落地</itunes:subtitle>
-      <itunes:summary><![CDATA[本期节目深入解读2026年6月11日最重要的科技、经济和政治新闻：
+      <itunes:summary>本期节目深入解读2026年6月11日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - 工信部发布AI+通信三年行动计划，城域算力1毫秒时延圈覆盖率目标75%
@@ -737,8 +767,8 @@
 【政治板块】
 - 美伊军事对峙升级，霍尔木兹海峡告急，伊朗宣布封锁海峡
 - 美国将中国科技企业列入军事企业清单，中美科技脱钩深化
-- 印度威胁切断巴基斯坦水源，南亚水资源博弈升级]]></itunes:summary>
-      <description><![CDATA[本期节目深入解读2026年6月11日最重要的科技、经济和政治新闻：
+- 印度威胁切断巴基斯坦水源，南亚水资源博弈升级</itunes:summary>
+      <description>本期节目深入解读2026年6月11日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - 工信部发布AI+通信三年行动计划，城域算力1毫秒时延圈覆盖率目标75%
@@ -753,8 +783,8 @@
 【政治板块】
 - 美伊军事对峙升级，霍尔木兹海峡告急，伊朗宣布封锁海峡
 - 美国将中国科技企业列入军事企业清单，中美科技脱钩深化
-- 印度威胁切断巴基斯坦水源，南亚水资源博弈升级]]></description>
-      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-11/episode.mp3" length="4912560" type="audio/mpeg"/>
+- 印度威胁切断巴基斯坦水源，南亚水资源博弈升级</description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-11/episode.mp3" length="4912560" type="audio/mpeg" />
       <guid>https://dragronstranding.github.io/daily-podcast/2026-06-11/episode.mp3</guid>
       <pubDate>Thu, 11 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:duration>13:40</itunes:duration>
@@ -766,7 +796,7 @@
       <title>每日深度 | 2026-06-10</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>苹果Siri全面接入谷歌Gemini、SpaceX史诗级IPO、中东伊以停火但危机未消</itunes:subtitle>
-      <itunes:summary><![CDATA[本期节目深入解读2026年6月10日最重要的科技、经济和政治新闻：
+      <itunes:summary>本期节目深入解读2026年6月10日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - 苹果WWDC 2026：Siri全面接入谷歌Gemini大模型，库克告别之作重塑AI格局
@@ -781,8 +811,8 @@
 【政治板块】
 - 中东局势：伊以停火脆弱，美伊谈判进入关键窗口期
 - 欧盟对俄强硬加码：地中海扣押俄油轮
-- 中国明确立场：反对单边制裁，坚守多边主义]]></itunes:summary>
-      <description><![CDATA[本期节目深入解读2026年6月10日最重要的科技、经济和政治新闻：
+- 中国明确立场：反对单边制裁，坚守多边主义</itunes:summary>
+      <description>本期节目深入解读2026年6月10日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - 苹果WWDC 2026：Siri全面接入谷歌Gemini大模型，库克告别之作重塑AI格局
@@ -797,8 +827,8 @@
 【政治板块】
 - 中东局势：伊以停火脆弱，美伊谈判进入关键窗口期
 - 欧盟对俄强硬加码：地中海扣押俄油轮
-- 中国明确立场：反对单边制裁，坚守多边主义]]></description>
-      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-10/episode.mp3" length="3179000" type="audio/mpeg"/>
+- 中国明确立场：反对单边制裁，坚守多边主义</description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-10/episode.mp3" length="3179000" type="audio/mpeg" />
       <guid>https://dragronstranding.github.io/daily-podcast/2026-06-10/episode.mp3</guid>
       <pubDate>Wed, 10 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:duration>08:30</itunes:duration>
@@ -810,7 +840,7 @@
       <title>每日深度 | 2026-05-26</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>全球AI技术大会杭州启幕、美联储换帅引发全球金融变局、中美构建建设性战略稳定关系</itunes:subtitle>
-      <itunes:summary><![CDATA[本期节目深入解读2026年5月26日最重要的科技、经济和政治新闻：
+      <itunes:summary>本期节目深入解读2026年5月26日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - 2026全球人工智能技术大会在杭州启幕，AI从实验室走向产业深水区
@@ -825,8 +855,8 @@
 【政治板块】
 - 习近平主席与特朗普总统举行历史性会谈，构建"中美建设性战略稳定关系"
 - 台湾问题成为中美关系核心关切，美方承诺不支持"台独"
-- 中美就中东局势、乌克兰危机、朝鲜半岛等重大国际问题交换意见]]></itunes:summary>
-      <description><![CDATA[本期节目深入解读2026年5月26日最重要的科技、经济和政治新闻：
+- 中美就中东局势、乌克兰危机、朝鲜半岛等重大国际问题交换意见</itunes:summary>
+      <description>本期节目深入解读2026年5月26日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - 2026全球人工智能技术大会在杭州启幕，AI从实验室走向产业深水区
@@ -841,8 +871,8 @@
 【政治板块】
 - 习近平主席与特朗普总统举行历史性会谈，构建"中美建设性战略稳定关系"
 - 台湾问题成为中美关系核心关切，美方承诺不支持"台独"
-- 中美就中东局势、乌克兰危机、朝鲜半岛等重大国际问题交换意见]]></description>
-      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-05-26/episode.mp3" length="4500000" type="audio/mpeg"/>
+- 中美就中东局势、乌克兰危机、朝鲜半岛等重大国际问题交换意见</description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-05-26/episode.mp3" length="4500000" type="audio/mpeg" />
       <guid>https://dragronstranding.github.io/daily-podcast/2026-05-26/episode.mp3</guid>
       <pubDate>Tue, 26 May 2026 06:00:00 GMT</pubDate>
       <itunes:duration>12:30</itunes:duration>
@@ -854,7 +884,7 @@
       <title>每日深度 | 2026-05-21</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>Google I/O 2026开启AI Agent时代、美联储降息概率跌至1%、俄乌冲突触碰核红线</itunes:subtitle>
-      <itunes:summary><![CDATA[本期节目深入解读2026年5月21日最重要的科技、经济和政治新闻：
+      <itunes:summary>本期节目深入解读2026年5月21日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - Google I/O 2026：AI核心战场从"聊天"转向"执行"，Gemini Spark个人智能体亮相
@@ -869,8 +899,8 @@
 【政治板块】
 - 俄乌冲突升级：乌军击中俄黑海舰队两艘登陆舰，局势触碰核红线
 - 特朗普政府双线作战：入侵委内瑞拉同时拦截俄油轮
-- 特朗普2.0外交特征：交易主义、军事冒险、国内政治驱动]]></itunes:summary>
-      <description><![CDATA[本期节目深入解读2026年5月21日最重要的科技、经济和政治新闻：
+- 特朗普2.0外交特征：交易主义、军事冒险、国内政治驱动</itunes:summary>
+      <description>本期节目深入解读2026年5月21日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - Google I/O 2026：AI核心战场从"聊天"转向"执行"，Gemini Spark个人智能体亮相
@@ -885,8 +915,8 @@
 【政治板块】
 - 俄乌冲突升级：乌军击中俄黑海舰队两艘登陆舰，局势触碰核红线
 - 特朗普政府双线作战：入侵委内瑞拉同时拦截俄油轮
-- 特朗普2.0外交特征：交易主义、军事冒险、国内政治驱动]]></description>
-      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-05-21/episode.mp3" length="4200000" type="audio/mpeg"/>
+- 特朗普2.0外交特征：交易主义、军事冒险、国内政治驱动</description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-05-21/episode.mp3" length="4200000" type="audio/mpeg" />
       <guid>https://dragronstranding.github.io/daily-podcast/2026-05-21/episode.mp3</guid>
       <pubDate>Thu, 21 May 2026 06:00:00 GMT</pubDate>
       <itunes:duration>11:40</itunes:duration>
@@ -897,7 +927,7 @@
       <title>每日深度 | 2026-05-14</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>AI Agent市场突破2000亿美元、油价突破100美元大关、美国家庭债务违约率创八年新高</itunes:subtitle>
-      <itunes:summary><![CDATA[本期节目深入解读2026年5月14日最重要的科技、经济和政治新闻：
+      <itunes:summary>本期节目深入解读2026年5月14日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - AI Agent市场规模突破2065亿美元，企业需求从"能对话"转向"能执行"
@@ -912,8 +942,8 @@
 【政治板块】
 - 中东局势再度紧张，特朗普政府不排除军事打击
 - 中国对53个非洲国家实施零关税，中非合作再上新台阶
-- 外交部发言人回应多项国际议题，展现中国外交立场]]></itunes:summary>
-      <description><![CDATA[本期节目深入解读2026年5月14日最重要的科技、经济和政治新闻：
+- 外交部发言人回应多项国际议题，展现中国外交立场</itunes:summary>
+      <description>本期节目深入解读2026年5月14日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - AI Agent市场规模突破2065亿美元，企业需求从"能对话"转向"能执行"
@@ -928,8 +958,8 @@
 【政治板块】
 - 中东局势再度紧张，特朗普政府不排除军事打击
 - 中国对53个非洲国家实施零关税，中非合作再上新台阶
-- 外交部发言人回应多项国际议题，展现中国外交立场]]></description>
-      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-05-14/episode.mp3" length="3500000" type="audio/mpeg"/>
+- 外交部发言人回应多项国际议题，展现中国外交立场</description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-05-14/episode.mp3" length="3500000" type="audio/mpeg" />
       <guid>https://dragronstranding.github.io/daily-podcast/2026-05-14/episode.mp3</guid>
       <pubDate>Thu, 14 May 2026 06:00:00 GMT</pubDate>
       <itunes:duration>09:45</itunes:duration>
@@ -940,7 +970,7 @@
       <title>每日深度 | 2026-05-12</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>英伟达400亿美元AI投资版图、A股重返4200点创十年新高、特朗普确认5月13日访华</itunes:subtitle>
-      <itunes:summary><![CDATA[本期节目深入解读2026年5月12日最重要的科技、经济和政治新闻：
+      <itunes:summary>本期节目深入解读2026年5月12日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - 英伟达2026年股权投资超400亿美元，全面布局AI生态
@@ -955,8 +985,8 @@
 【政治板块】
 - 特朗普确认5月13日至15日访华，全球秩序重构的"关键棋"
 - 美伊接近达成停战谅解备忘录，油价高位回落
-- 弗里德曼发文呼吁中美AI合作，"共同敌人"论引发讨论]]></itunes:summary>
-      <description><![CDATA[本期节目深入解读2026年5月12日最重要的科技、经济和政治新闻：
+- 弗里德曼发文呼吁中美AI合作，"共同敌人"论引发讨论</itunes:summary>
+      <description>本期节目深入解读2026年5月12日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - 英伟达2026年股权投资超400亿美元，全面布局AI生态
@@ -971,8 +1001,8 @@
 【政治板块】
 - 特朗普确认5月13日至15日访华，全球秩序重构的"关键棋"
 - 美伊接近达成停战谅解备忘录，油价高位回落
-- 弗里德曼发文呼吁中美AI合作，"共同敌人"论引发讨论]]></description>
-      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-05-12/episode.mp3" length="3825021" type="audio/mpeg"/>
+- 弗里德曼发文呼吁中美AI合作，"共同敌人"论引发讨论</description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-05-12/episode.mp3" length="3825021" type="audio/mpeg" />
       <guid>https://dragronstranding.github.io/daily-podcast/2026-05-12/episode.mp3</guid>
       <pubDate>Tue, 12 May 2026 06:00:00 GMT</pubDate>
       <itunes:duration>10:35</itunes:duration>
@@ -983,7 +1013,7 @@
       <title>每日深度 | 2026-05-11</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>马斯克千亿美元芯片工厂、四部委AI能源双向赋能方案、美伊霍尔木兹海峡连续交火</itunes:subtitle>
-      <itunes:summary><![CDATA[本期节目深入解读2026年5月11日最重要的科技、经济和政治新闻：
+      <itunes:summary>本期节目深入解读2026年5月11日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - 马斯克"Terafab"计划拟投资1190亿美元建造全球最大AI芯片工厂
@@ -998,8 +1028,8 @@
 【政治板块】
 - 美伊霍尔木兹海峡连续交火，全球能源供应链面临严峻考验
 - 匈牙利政权更迭，欧尔班时代落幕，毛焦尔当选新总理
-- 英国工党地方选举遭遇历史性溃败，斯塔默执政压力空前]]></itunes:summary>
-      <description><![CDATA[本期节目深入解读2026年5月11日最重要的科技、经济和政治新闻：
+- 英国工党地方选举遭遇历史性溃败，斯塔默执政压力空前</itunes:summary>
+      <description>本期节目深入解读2026年5月11日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - 马斯克"Terafab"计划拟投资1190亿美元建造全球最大AI芯片工厂
@@ -1014,8 +1044,8 @@
 【政治板块】
 - 美伊霍尔木兹海峡连续交火，全球能源供应链面临严峻考验
 - 匈牙利政权更迭，欧尔班时代落幕，毛焦尔当选新总理
-- 英国工党地方选举遭遇历史性溃败，斯塔默执政压力空前]]></description>
-      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-05-11/episode.mp3" length="3014733" type="audio/mpeg"/>
+- 英国工党地方选举遭遇历史性溃败，斯塔默执政压力空前</description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-05-11/episode.mp3" length="3014733" type="audio/mpeg" />
       <guid>https://dragronstranding.github.io/daily-podcast/2026-05-11/episode.mp3</guid>
       <pubDate>Mon, 11 May 2026 06:00:00 GMT</pubDate>
       <itunes:duration>08:22</itunes:duration>
@@ -1026,7 +1056,7 @@
       <title>每日深度 | 2026-05-10</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>英特尔苹果世纪合作、华为昇腾登顶国内AI芯片、俄乌临时停火、霍尔木兹海峡对峙升级</itunes:subtitle>
-      <itunes:summary><![CDATA[本期节目深入解读2026年5月10日最重要的科技、经济和政治新闻：
+      <itunes:summary>本期节目深入解读2026年5月10日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - 英特尔与苹果达成芯片代工协议，股价双双创历史新高
@@ -1041,8 +1071,8 @@
 【政治板块】
 - 俄乌实行三天临时停火并交换1000名战俘
 - 中美在日内瓦举行经贸会谈，聚焦务实合作与分歧管控
-- 美伊霍尔木兹海峡对峙升级，全球石油贸易面临严重威胁]]></itunes:summary>
-      <description><![CDATA[本期节目深入解读2026年5月10日最重要的科技、经济和政治新闻：
+- 美伊霍尔木兹海峡对峙升级，全球石油贸易面临严重威胁</itunes:summary>
+      <description>本期节目深入解读2026年5月10日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - 英特尔与苹果达成芯片代工协议，股价双双创历史新高
@@ -1057,8 +1087,8 @@
 【政治板块】
 - 俄乌实行三天临时停火并交换1000名战俘
 - 中美在日内瓦举行经贸会谈，聚焦务实合作与分歧管控
-- 美伊霍尔木兹海峡对峙升级，全球石油贸易面临严重威胁]]></description>
-      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-05-10/episode.mp3" length="2990000" type="audio/mpeg"/>
+- 美伊霍尔木兹海峡对峙升级，全球石油贸易面临严重威胁</description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-05-10/episode.mp3" length="2990000" type="audio/mpeg" />
       <guid>https://dragronstranding.github.io/daily-podcast/2026-05-10/episode.mp3</guid>
       <pubDate>Sat, 10 May 2026 06:00:00 GMT</pubDate>
       <itunes:duration>08:18</itunes:duration>
@@ -1069,7 +1099,7 @@
       <title>每日深度 | 2026-05-09</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>AI接入美军决策系统、美国全球关税被判无效、俄乌胜利日临时停火</itunes:subtitle>
-      <itunes:summary><![CDATA[本期节目深入解读2026年5月9日最重要的科技、经济和政治新闻：
+      <itunes:summary>本期节目深入解读2026年5月9日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - 美五角大楼与七家科技巨头签署540亿美元AI军事合同，AI正式接入作战决策
@@ -1084,8 +1114,8 @@
 【政治板块】
 - 俄乌胜利日临时停火，姿态性缓和背后战略僵局未解
 - 美伊核谈判重启，伊朗十项条件关闭快速谈判大门
-- 特朗普对欧盟发出7月4日最后通牒，跨大西洋贸易裂痕加深]]></itunes:summary>
-      <description><![CDATA[本期节目深入解读2026年5月9日最重要的科技、经济和政治新闻：
+- 特朗普对欧盟发出7月4日最后通牒，跨大西洋贸易裂痕加深</itunes:summary>
+      <description>本期节目深入解读2026年5月9日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - 美五角大楼与七家科技巨头签署540亿美元AI军事合同，AI正式接入作战决策
@@ -1100,8 +1130,8 @@
 【政治板块】
 - 俄乌胜利日临时停火，姿态性缓和背后战略僵局未解
 - 美伊核谈判重启，伊朗十项条件关闭快速谈判大门
-- 特朗普对欧盟发出7月4日最后通牒，跨大西洋贸易裂痕加深]]></description>
-      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-05-09/episode.mp3" length="3812925" type="audio/mpeg"/>
+- 特朗普对欧盟发出7月4日最后通牒，跨大西洋贸易裂痕加深</description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-05-09/episode.mp3" length="3812925" type="audio/mpeg" />
       <guid>https://dragronstranding.github.io/daily-podcast/2026-05-09/episode.mp3</guid>
       <pubDate>Fri, 09 May 2026 06:00:00 GMT</pubDate>
       <itunes:duration>10:30</itunes:duration>
@@ -1112,7 +1142,7 @@
       <title>每日深度 | 2026-05-08</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>DeepSeek获450亿美元估值、美伊霍尔木兹海峡冲突、黄金价格突破4700美元</itunes:subtitle>
-      <itunes:summary><![CDATA[本期节目深入解读2026年5月8日最重要的科技、经济和政治新闻：
+      <itunes:summary>本期节目深入解读2026年5月8日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - DeepSeek获国家队450亿美元估值，中国AI产业进入国家战略层面
@@ -1127,8 +1157,8 @@
 【政治板块】
 - 美伊在霍尔木兹海峡爆发激烈军事冲突
 - 俄乌战场胜利日停火但战事未止
-- 中美元首会晤在即，台湾问题成核心关切]]></itunes:summary>
-      <description><![CDATA[本期节目深入解读2026年5月8日最重要的科技、经济和政治新闻：
+- 中美元首会晤在即，台湾问题成核心关切</itunes:summary>
+      <description>本期节目深入解读2026年5月8日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - DeepSeek获国家队450亿美元估值，中国AI产业进入国家战略层面
@@ -1143,8 +1173,8 @@
 【政治板块】
 - 美伊在霍尔木兹海峡爆发激烈军事冲突
 - 俄乌战场胜利日停火但战事未止
-- 中美元首会晤在即，台湾问题成核心关切]]></description>
-      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-05-08/episode.mp3" length="16896000" type="audio/mpeg"/>
+- 中美元首会晤在即，台湾问题成核心关切</description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-05-08/episode.mp3" length="16896000" type="audio/mpeg" />
       <guid>https://dragronstranding.github.io/daily-podcast/2026-05-08/episode.mp3</guid>
       <pubDate>Thu, 08 May 2026 06:00:00 GMT</pubDate>
       <itunes:duration>14:03</itunes:duration>
