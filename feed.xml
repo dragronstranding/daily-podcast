@@ -1181,5 +1181,48 @@
       <itunes:explicit>no</itunes:explicit>
       <link>https://dragronstranding.github.io/daily-podcast/2026-05-08/</link>
     </item>
+    <item>
+      <title>每日深度 | 2026-06-29</title>
+      <itunes:author>每日深度</itunes:author>
+      <itunes:subtitle>英伟达AI芯片进军电信基础设施、纳斯达克蒸发万亿、美伊卡塔尔会谈</itunes:subtitle>
+      <itunes:summary>本期节目深入解读2026年6月29日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- 英伟达AI芯片将集成进诺基亚5G设备，从数据中心迈向边缘网络
+- 功率半导体因AI算力集群功耗激增再启涨价潮
+- 苏州发布"人工智能+"行动方案，2026年AI核心产业目标4000亿
+
+【经济板块】
+- 纳斯达克100指数市值蒸发超1万亿美元，AI泡沫第二轮压力测试
+- 央行新增隔夜逆回购操作，缓解半年末资金收紧压力
+- 三星官宣约4万亿元人民币本土半导体投资计划
+
+【政治板块】
+- 美伊将于6月30日在卡塔尔举行会谈，暂停互相军事打击
+- 普京称俄罗斯正处于命运攸关之际，西方不可能在战场上战胜俄罗斯
+- 中国明确反对牺牲中方利益的关税交易</itunes:summary>
+      <description>本期节目深入解读2026年6月29日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- 英伟达AI芯片将集成进诺基亚5G设备，从数据中心迈向边缘网络
+- 功率半导体因AI算力集群功耗激增再启涨价潮
+- 苏州发布"人工智能+"行动方案，2026年AI核心产业目标4000亿
+
+【经济板块】
+- 纳斯达克100指数市值蒸发超1万亿美元，AI泡沫第二轮压力测试
+- 央行新增隔夜逆回购操作，缓解半年末资金收紧压力
+- 三星官宣约4万亿元人民币本土半导体投资计划
+
+【政治板块】
+- 美伊将于6月30日在卡塔尔举行会谈，暂停互相军事打击
+- 普京称俄罗斯正处于命运攸关之际，西方不可能在战场上战胜俄罗斯
+- 中国明确反对牺牲中方利益的关税交易</description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-06-29/episode.mp3" length="2428128" type="audio/mpeg" />
+      <guid>https://dragronstranding.github.io/daily-podcast/2026-06-29/episode.mp3</guid>
+      <pubDate>Mon, 29 Jun 2026 06:00:00 GMT</pubDate>
+      <itunes:duration>06:45</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://dragronstranding.github.io/daily-podcast/2026-06-29/</link>
+    </item>
   </channel>
 </rss>
