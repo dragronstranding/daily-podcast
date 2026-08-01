@@ -18,7 +18,50 @@
     <itunes:category text="Business" />
     <atom:link href="https://dragronstranding.github.io/daily-podcast/feed.xml" rel="self" type="application/rss+xml" />
 
-    <item><title>每日深度 | 2026-06-28</title><itunes:author>每日深度</itunes:author><itunes:subtitle>国产超算登顶全球、芯片股崩盘、美伊停火协议濒临破裂</itunes:subtitle><itunes:summary>本期节目深入解读2026年6月28日最重要的科技、经济和政治新闻：
+        <item>
+      <title>每日深度 | 2026-08-01</title>
+      <itunes:author>每日深度</itunes:author>
+      <itunes:subtitle>美伊互射导弹与霍尔木兹关闭、芯片股雪崩与加密爆仓、SpaceX星舰首次在轨部署星链、OpenAI豪掷300亿自建数据中心</itunes:subtitle>
+      <itunes:summary>本期节目深入解读2026年8月1日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- SpaceX星舰第13次试飞，首次在轨部署20颗新一代星链卫星，实现"载物入轨"商业闭环
+- AMD发布2nm工艺MI455X与Helios机架平台正面叫板英伟达，英特尔Q2创15年最快增速，AI芯片进入三强争霸
+- OpenAI斥资逾300亿美元自建"山茶花"数据中心并自研芯片，苹果起诉OpenAI、双方合作破裂
+
+【经济板块】
+- 美联储9比3维持利率不变，三票反对主张加息，鹰派暗流涌动
+- 全球芯片股抛售致MSCI跌至一个月低位，韩国KOSPI单日暴跌逾10%，跌幅超1997年金融危机
+- 加密货币全线跳水，比特币跌破6.3万美元，超9万人爆仓，ETF由流入转为净流出
+
+【政治板块】
+- 美伊再度互射导弹，霍尔木兹海峡实质关闭，冲突外溢至科威特、约旦、伊拉克、沙特
+- 俄军对乌克兰大规模空袭，泽连斯基警告俄方再动员并拟接收3万朝鲜士兵
+- 内塔尼亚胡访白宫会晤特朗普协调对伊战事，以军袭击黎巴嫩致逾4300人死亡；俄无人机侵犯北约领空，罗马尼亚三天击落三架</itunes:summary>
+      <description>本期节目深入解读2026年8月1日最重要的科技、经济和政治新闻：
+
+【科技板块】
+- SpaceX星舰第13次试飞，首次在轨部署20颗新一代星链卫星，实现"载物入轨"商业闭环
+- AMD发布2nm工艺MI455X与Helios机架平台正面叫板英伟达，英特尔Q2创15年最快增速，AI芯片进入三强争霸
+- OpenAI斥资逾300亿美元自建"山茶花"数据中心并自研芯片，苹果起诉OpenAI、双方合作破裂
+
+【经济板块】
+- 美联储9比3维持利率不变，三票反对主张加息，鹰派暗流涌动
+- 全球芯片股抛售致MSCI跌至一个月低位，韩国KOSPI单日暴跌逾10%，跌幅超1997年金融危机
+- 加密货币全线跳水，比特币跌破6.3万美元，超9万人爆仓，ETF由流入转为净流出
+
+【政治板块】
+- 美伊再度互射导弹，霍尔木兹海峡实质关闭，冲突外溢至科威特、约旦、伊拉克、沙特
+- 俄军对乌克兰大规模空袭，泽连斯基警告俄方再动员并拟接收3万朝鲜士兵
+- 内塔尼亚胡访白宫会晤特朗普协调对伊战事，以军袭击黎巴嫩致逾4300人死亡；俄无人机侵犯北约领空，罗马尼亚三天击落三架</description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-08-01/episode.mp3" length="5825952" type="audio/mpeg" />
+      <guid>https://dragronstranding.github.io/daily-podcast/2026-08-01/episode.mp3</guid>
+      <pubDate>Sat, 01 Aug 2026 06:00:00 GMT</pubDate>
+      <itunes:duration>16:10</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://dragronstranding.github.io/daily-podcast/2026-08-01/</link>
+    </item>
+<item><title>每日深度 | 2026-06-28</title><itunes:author>每日深度</itunes:author><itunes:subtitle>国产超算登顶全球、芯片股崩盘、美伊停火协议濒临破裂</itunes:subtitle><itunes:summary>本期节目深入解读2026年6月28日最重要的科技、经济和政治新闻：
 
 【科技板块】
 - 国产灵晟超算以2.198 ExaFLOPS登顶全球TOP500，实现全栈国产
