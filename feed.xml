@@ -18,6 +18,49 @@
     <itunes:category text="Business" />
     <atom:link href="https://dragronstranding.github.io/daily-podcast/feed.xml" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>每日深度 | 2026-08-02</title>
+      <itunes:author>每日深度</itunes:author>
+      <itunes:subtitle>美以酝酿对伊能源打击、亚马逊暴涨15%、OpenAI曝光GPT-6前身Astra——八月开局三重冲击波</itunes:subtitle>
+      <itunes:summary>本期节目深入解读2026-08-02最重要的科技、经济和政治新闻：
+
+【科技板块】
+- OpenAI曝光多智能体模型家族"Astra"，被视为GPT-6前身，已解决10道十年未解数学难题
+- 微软发布网络安全专用AI模型MAI-Cyber-1-Flash，跑分95.95%碾压通用大模型
+- 台积电研发类EMIB先进封装技术对标英特尔，股价单日涨停，AI封装战升温
+
+【经济板块】
+- 美以酝酿对伊朗能源设施打击，布伦特原油突破91美元，黄金不涨反跌
+- 美股科技股剧烈分化：亚马逊暴涨15.24%创2012年以来最大涨幅，苹果大跌7%
+- 比特币跌破6.24万美元，硬件钱包安全漏洞致7000万美元被盗，ETF转为净流出
+
+【政治板块】
+- 美以计划对伊朗能源设施发动大规模打击，伊朗警告全面对等报复
+- 俄军大规模导弹袭击基辅致9死30伤，泽连斯基指责西方防空支援不足
+- 西班牙休达遭遇5万人偷渡潮，意大利暂停与西班牙申根协议</itunes:summary>
+      <description>本期节目深入解读2026-08-02最重要的科技、经济和政治新闻：
+
+【科技板块】
+- OpenAI曝光多智能体模型家族"Astra"，被视为GPT-6前身，已解决10道十年未解数学难题
+- 微软发布网络安全专用AI模型MAI-Cyber-1-Flash，跑分95.95%碾压通用大模型
+- 台积电研发类EMIB先进封装技术对标英特尔，股价单日涨停，AI封装战升温
+
+【经济板块】
+- 美以酝酿对伊朗能源设施打击，布伦特原油突破91美元，黄金不涨反跌
+- 美股科技股剧烈分化：亚马逊暴涨15.24%创2012年以来最大涨幅，苹果大跌7%
+- 比特币跌破6.24万美元，硬件钱包安全漏洞致7000万美元被盗，ETF转为净流出
+
+【政治板块】
+- 美以计划对伊朗能源设施发动大规模打击，伊朗警告全面对等报复
+- 俄军大规模导弹袭击基辅致9死30伤，泽连斯基指责西方防空支援不足
+- 西班牙休达遭遇5万人偷渡潮，意大利暂停与西班牙申根协议</description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-08-02/episode.mp3" length="7539120" type="audio/mpeg" />
+      <guid>https://dragronstranding.github.io/daily-podcast/2026-08-02/episode.mp3</guid>
+      <pubDate>Sun, 02 Aug 2026 06:00:00 GMT</pubDate>
+      <itunes:duration>18:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://dragronstranding.github.io/daily-podcast/2026-08-02/</link>
+    </item>
         <item>
       <title>每日深度 | 2026-08-01</title>
       <itunes:author>每日深度</itunes:author>
