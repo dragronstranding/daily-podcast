@@ -19,6 +19,49 @@
     <atom:link href="https://dragronstranding.github.io/daily-podcast/feed.xml" rel="self" type="application/rss+xml" />
 
     <item>
+      <title>每日深度 | 2026-08-03</title>
+      <itunes:author>每日深度</itunes:author>
+      <itunes:subtitle>AI走进物理世界、两场战争合流为一个战场、油价与加息预期重写市场剧本——边界消解的一天</itunes:subtitle>
+      <itunes:summary>本期节目深入解读2026-08-03最重要的科技、经济和政治新闻：
+
+【科技板块】
+- Google DeepMind发布Gemini Robotics 2，三层架构让大模型成为"机器人大脑"，AI首次系统化跨入物理世界
+- 欧盟AI法案扩围落地，深度伪造强制标识、AI对话须告知用户，全球最高标准监管基线成型
+- 财报季定调：英伟达以4.9万亿美元市值重回全球第一，亚马逊上调2026资本开支至2200亿，"一切让位给智能体AI"
+
+【经济板块】
+- 9月美联储加息概率从不到53%飙升至82%，油价注入通胀恐慌，主席Warsh强调"央行信誉"
+- 油价过山车：布伦特先破91美元、WTI单日回吐8.15%，地缘叙事主导大宗商品定价
+- 资本大迁徙：资金从纳斯达克科技股流向防御板块，日元与油价同步走强警示套利平仓
+
+【政治板块】
+- 乌克兰里海一击打中伊朗货船，俄伊无人机"全循环"军火闭环曝光，两场战争合流为一个战场
+- 俄军无人机侵入罗马尼亚、导弹落入波兰，北约领空灰色地带被系统性测试
+- "反美轴心"叙事在华盛顿获跨党派共识，中国"经济深度介入、军事刻意回避"成最脆弱平衡点</itunes:summary>
+      <description>本期节目深入解读2026-08-03最重要的科技、经济和政治新闻：
+
+【科技板块】
+- Google DeepMind发布Gemini Robotics 2，三层架构让大模型成为"机器人大脑"，AI首次系统化跨入物理世界
+- 欧盟AI法案扩围落地，深度伪造强制标识、AI对话须告知用户，全球最高标准监管基线成型
+- 财报季定调：英伟达以4.9万亿美元市值重回全球第一，亚马逊上调2026资本开支至2200亿，"一切让位给智能体AI"
+
+【经济板块】
+- 9月美联储加息概率从不到53%飙升至82%，油价注入通胀恐慌，主席Warsh强调"央行信誉"
+- 油价过山车：布伦特先破91美元、WTI单日回吐8.15%，地缘叙事主导大宗商品定价
+- 资本大迁徙：资金从纳斯达克科技股流向防御板块，日元与油价同步走强警示套利平仓
+
+【政治板块】
+- 乌克兰里海一击打中伊朗货船，俄伊无人机"全循环"军火闭环曝光，两场战争合流为一个战场
+- 俄军无人机侵入罗马尼亚、导弹落入波兰，北约领空灰色地带被系统性测试
+- "反美轴心"叙事在华盛顿获跨党派共识，中国"经济深度介入、军事刻意回避"成最脆弱平衡点</description>
+      <enclosure url="https://dragronstranding.github.io/daily-podcast/2026-08-03/episode.mp3" length="6317568" type="audio/mpeg" />
+      <guid>https://dragronstranding.github.io/daily-podcast/2026-08-03/episode.mp3</guid>
+      <pubDate>Mon, 03 Aug 2026 06:00:00 GMT</pubDate>
+      <itunes:duration>15:05</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://dragronstranding.github.io/daily-podcast/2026-08-03/</link>
+    </item>
+    <item>
       <title>每日深度 | 2026-08-02</title>
       <itunes:author>每日深度</itunes:author>
       <itunes:subtitle>美以酝酿对伊能源打击、亚马逊暴涨15%、OpenAI曝光GPT-6前身Astra——八月开局三重冲击波</itunes:subtitle>
